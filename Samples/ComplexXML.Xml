@@ -1,0 +1,6732 @@
+<ComplexXML>
+<Sales>
+  <InvoiceNumber>GBPGB001</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Testarossa</Model>
+  </Vehicle>
+  <SaleDate>2015-01-02T08:00:00</SaleDate>
+  <Finance>
+    <Cost>52000.0000</Cost>
+    <RepairsCost>52000.0000</RepairsCost>
+    <PartsCost>52000.0000</PartsCost>
+    <TransportInCost>52000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>65000.00</SalePrice>
+  <LineItemDiscount>2700.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Magic Motors</CustomerName>
+    <CountryName>Magic Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB002</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>355</Model>
+  </Vehicle>
+  <SaleDate>2015-01-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>176000.0000</Cost>
+    <RepairsCost>176000.0000</RepairsCost>
+    <PartsCost>176000.0000</PartsCost>
+    <TransportInCost>176000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>220000.00</SalePrice>
+  <LineItemDiscount>60000.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Snazzy Roadsters</CustomerName>
+    <CountryName>Snazzy Roadsters</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB003</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2015-02-03T10:00:00</SaleDate>
+  <Finance>
+    <Cost>15600.0000</Cost>
+    <RepairsCost>15600.0000</RepairsCost>
+    <PartsCost>15600.0000</PartsCost>
+    <TransportInCost>15600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>19500.00</SalePrice>
+  <Customer>
+    <CustomerName>Birmingham Executive Prestige Vehicles</CustomerName>
+    <CountryName>Birmingham Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE004</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>924</Model>
+  </Vehicle>
+  <SaleDate>2015-02-16T08:00:00</SaleDate>
+  <Finance>
+    <Cost>9200.0000</Cost>
+    <RepairsCost>9200.0000</RepairsCost>
+    <PartsCost>9200.0000</PartsCost>
+    <TransportInCost>9200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>11500.00</SalePrice>
+  <Customer>
+    <CustomerName>WunderKar</CustomerName>
+    <CountryName>WunderKar</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR005</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2015-01-02T10:33:00</SaleDate>
+  <Finance>
+    <Cost>15960.0000</Cost>
+    <RepairsCost>15960.0000</RepairsCost>
+    <PartsCost>15960.0000</PartsCost>
+    <TransportInCost>15960.0000</TransportInCost>
+  </Finance>
+  <SalePrice>19950.00</SalePrice>
+  <Customer>
+    <CustomerName>Casseroles Chromes</CustomerName>
+    <CountryName>Casseroles Chromes</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB006</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB4</Model>
+  </Vehicle>
+  <SaleDate>2015-03-14T00:00:00</SaleDate>
+  <Finance>
+    <Cost>23600.0000</Cost>
+    <RepairsCost>23600.0000</RepairsCost>
+    <PartsCost>23600.0000</PartsCost>
+    <TransportInCost>23600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>29500.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Magic Motors</CustomerName>
+    <CountryName>Magic Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB007</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB5</Model>
+  </Vehicle>
+  <SaleDate>2015-03-24T00:00:00</SaleDate>
+  <Finance>
+    <Cost>39600.0000</Cost>
+    <RepairsCost>39600.0000</RepairsCost>
+    <PartsCost>39600.0000</PartsCost>
+    <TransportInCost>39600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>49500.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Birmingham Executive Prestige Vehicles</CustomerName>
+    <CountryName>Birmingham Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB008</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2015-03-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>60800.0000</Cost>
+    <RepairsCost>60800.0000</RepairsCost>
+    <PartsCost>60800.0000</PartsCost>
+    <TransportInCost>60800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>76000.00</SalePrice>
+  <LineItemDiscount>5500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Eat My Exhaust Ltd</CustomerName>
+    <CountryName>Eat My Exhaust Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR009</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2015-04-06T00:00:00</SaleDate>
+  <Finance>
+    <Cost>15680.0000</Cost>
+    <RepairsCost>15680.0000</RepairsCost>
+    <PartsCost>15680.0000</PartsCost>
+    <TransportInCost>15680.0000</TransportInCost>
+  </Finance>
+  <SalePrice>19600.00</SalePrice>
+  <Customer>
+    <CustomerName>M. Pierre Dubois</CustomerName>
+    <CountryName>M. Pierre Dubois</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS010</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB5</Model>
+  </Vehicle>
+  <SaleDate>2015-04-04T00:00:00</SaleDate>
+  <Finance>
+    <Cost>29200.0000</Cost>
+    <RepairsCost>29200.0000</RepairsCost>
+    <PartsCost>29200.0000</PartsCost>
+    <TransportInCost>29200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>36500.00</SalePrice>
+  <LineItemDiscount>2500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Sondra Horowitz</CustomerName>
+    <CountryName>Sondra Horowitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB011</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2015-04-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>6800.0000</Cost>
+    <RepairsCost>6800.0000</RepairsCost>
+    <PartsCost>6800.0000</PartsCost>
+    <TransportInCost>6800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>8500.00</SalePrice>
+  <LineItemDiscount>50.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Wonderland Wheels</CustomerName>
+    <CountryName>Wonderland Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR136</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2017-03-31T13:08:00</SaleDate>
+  <Finance>
+    <Cost>36000.0000</Cost>
+    <RepairsCost>36000.0000</RepairsCost>
+    <PartsCost>36000.0000</PartsCost>
+    <TransportInCost>36000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45000.00</SalePrice>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB011</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Flying Spur</Model>
+  </Vehicle>
+  <SaleDate>2015-04-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>64400.0000</Cost>
+    <RepairsCost>64400.0000</RepairsCost>
+    <PartsCost>64400.0000</PartsCost>
+    <TransportInCost>64400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>80500.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Wonderland Wheels</CustomerName>
+    <CountryName>Wonderland Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB012</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>355</Model>
+  </Vehicle>
+  <SaleDate>2015-05-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>135600.0000</Cost>
+    <RepairsCost>135600.0000</RepairsCost>
+    <PartsCost>135600.0000</PartsCost>
+    <TransportInCost>135600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>169500.00</SalePrice>
+  <Customer>
+    <CustomerName>London Executive Prestige Vehicles</CustomerName>
+    <CountryName>London Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR013</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2015-05-20T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7160.0000</Cost>
+    <RepairsCost>7160.0000</RepairsCost>
+    <PartsCost>7160.0000</PartsCost>
+    <TransportInCost>7160.0000</TransportInCost>
+  </Finance>
+  <SalePrice>8950.00</SalePrice>
+  <LineItemDiscount>25.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>M. Pierre Dubois</CustomerName>
+    <CountryName>M. Pierre Dubois</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB014</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Testarossa</Model>
+  </Vehicle>
+  <SaleDate>2015-05-28T00:00:00</SaleDate>
+  <Finance>
+    <Cost>156000.0000</Cost>
+    <RepairsCost>156000.0000</RepairsCost>
+    <PartsCost>156000.0000</PartsCost>
+    <TransportInCost>156000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>195000.00</SalePrice>
+  <Customer>
+    <CustomerName>Glittering Prize Cars Ltd</CustomerName>
+    <CountryName>Glittering Prize Cars Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR015</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>280SL</Model>
+  </Vehicle>
+  <SaleDate>2015-06-04T16:37:00</SaleDate>
+  <Finance>
+    <Cost>18360.0000</Cost>
+    <RepairsCost>18360.0000</RepairsCost>
+    <PartsCost>18360.0000</PartsCost>
+    <TransportInCost>18360.0000</TransportInCost>
+  </Finance>
+  <SalePrice>22950.00</SalePrice>
+  <LineItemDiscount>950.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>La Bagnole de Luxe</CustomerName>
+    <CountryName>La Bagnole de Luxe</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB016</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulia</Model>
+  </Vehicle>
+  <SaleDate>2015-07-12T10:00:00</SaleDate>
+  <Finance>
+    <Cost>6956.0000</Cost>
+    <RepairsCost>6956.0000</RepairsCost>
+    <PartsCost>6956.0000</PartsCost>
+    <TransportInCost>6956.0000</TransportInCost>
+  </Finance>
+  <SalePrice>8695.00</SalePrice>
+  <LineItemDiscount>95.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Convertible Dreams</CustomerName>
+    <CountryName>Convertible Dreams</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB017</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK150</Model>
+  </Vehicle>
+  <SaleDate>2015-07-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>18392.0000</Cost>
+    <RepairsCost>18392.0000</RepairsCost>
+    <PartsCost>18392.0000</PartsCost>
+    <TransportInCost>18392.0000</TransportInCost>
+  </Finance>
+  <SalePrice>22990.00</SalePrice>
+  <Customer>
+    <CustomerName>Alexei Tolstoi</CustomerName>
+    <CountryName>Alexei Tolstoi</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR018</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XJS</Model>
+  </Vehicle>
+  <SaleDate>2015-07-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>15600.0000</Cost>
+    <RepairsCost>15600.0000</RepairsCost>
+    <PartsCost>15600.0000</PartsCost>
+    <TransportInCost>15600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>19500.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>SuperSport S.A.R.L.</CustomerName>
+    <CountryName>SuperSport S.A.R.L.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR018</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2015-07-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>44800.0000</Cost>
+    <RepairsCost>44800.0000</RepairsCost>
+    <PartsCost>44800.0000</PartsCost>
+    <TransportInCost>44800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56000.00</SalePrice>
+  <Customer>
+    <CustomerName>SuperSport S.A.R.L.</CustomerName>
+    <CountryName>SuperSport S.A.R.L.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB042</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2016-04-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7040.0000</Cost>
+    <RepairsCost>7040.0000</RepairsCost>
+    <PartsCost>7040.0000</PartsCost>
+    <TransportInCost>7040.0000</TransportInCost>
+  </Finance>
+  <SalePrice>8800.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Silver HubCaps</CustomerName>
+    <CountryName>Silver HubCaps</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS019</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR4</Model>
+  </Vehicle>
+  <SaleDate>2015-08-02T08:00:00</SaleDate>
+  <Finance>
+    <Cost>4400.0000</Cost>
+    <RepairsCost>4400.0000</RepairsCost>
+    <PartsCost>4400.0000</PartsCost>
+    <TransportInCost>4400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>5500.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Theo Kowalski</CustomerName>
+    <CountryName>Theo Kowalski</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB020</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2015-09-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10120.0000</Cost>
+    <RepairsCost>10120.0000</RepairsCost>
+    <PartsCost>10120.0000</PartsCost>
+    <TransportInCost>10120.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12650.00</SalePrice>
+  <Customer>
+    <CustomerName>Peter McLuckie</CustomerName>
+    <CountryName>Peter McLuckie</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB094</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>355</Model>
+  </Vehicle>
+  <SaleDate>2016-09-19T00:00:00</SaleDate>
+  <Finance>
+    <Cost>125200.0000</Cost>
+    <RepairsCost>125200.0000</RepairsCost>
+    <PartsCost>125200.0000</PartsCost>
+    <TransportInCost>125200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>156500.00</SalePrice>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB021</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>924</Model>
+  </Vehicle>
+  <SaleDate>2015-09-15T10:00:00</SaleDate>
+  <Finance>
+    <Cost>7160.0000</Cost>
+    <RepairsCost>7160.0000</RepairsCost>
+    <PartsCost>7160.0000</PartsCost>
+    <TransportInCost>7160.0000</TransportInCost>
+  </Finance>
+  <SalePrice>8950.00</SalePrice>
+  <LineItemDiscount>950.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Posh Vehicles Ltd</CustomerName>
+    <CountryName>Posh Vehicles Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH228</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Flying Spur</Model>
+  </Vehicle>
+  <SaleDate>2018-02-17T00:00:00</SaleDate>
+  <Finance>
+    <Cost>44360.0000</Cost>
+    <RepairsCost>44360.0000</RepairsCost>
+    <PartsCost>44360.0000</PartsCost>
+    <TransportInCost>44360.0000</TransportInCost>
+  </Finance>
+  <SalePrice>55450.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Raimondo Delattre</CustomerName>
+    <CountryName>Raimondo Delattre</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB022</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK120</Model>
+  </Vehicle>
+  <SaleDate>2015-09-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>12480.0000</Cost>
+    <RepairsCost>12480.0000</RepairsCost>
+    <PartsCost>12480.0000</PartsCost>
+    <TransportInCost>12480.0000</TransportInCost>
+  </Finance>
+  <SalePrice>15600.00</SalePrice>
+  <Customer>
+    <CustomerName>Peter McLuckie</CustomerName>
+    <CountryName>Peter McLuckie</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB023</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XJS</Model>
+  </Vehicle>
+  <SaleDate>2015-10-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>18080.0000</Cost>
+    <RepairsCost>18080.0000</RepairsCost>
+    <PartsCost>18080.0000</PartsCost>
+    <TransportInCost>18080.0000</TransportInCost>
+  </Finance>
+  <SalePrice>22600.00</SalePrice>
+  <LineItemDiscount>600.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Alexei Tolstoi</CustomerName>
+    <CountryName>Alexei Tolstoi</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS024</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2015-10-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>98872.0000</Cost>
+    <RepairsCost>98872.0000</RepairsCost>
+    <PartsCost>98872.0000</PartsCost>
+    <TransportInCost>98872.0000</TransportInCost>
+  </Finance>
+  <SalePrice>123590.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Theo Kowalski</CustomerName>
+    <CountryName>Theo Kowalski</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB025</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2015-11-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>18360.0000</Cost>
+    <RepairsCost>18360.0000</RepairsCost>
+    <PartsCost>18360.0000</PartsCost>
+    <TransportInCost>18360.0000</TransportInCost>
+  </Finance>
+  <SalePrice>22950.00</SalePrice>
+  <LineItemDiscount>50.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Convertible Dreams</CustomerName>
+    <CountryName>Convertible Dreams</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB026</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2015-12-01T08:00:00</SaleDate>
+  <Finance>
+    <Cost>55600.0000</Cost>
+    <RepairsCost>55600.0000</RepairsCost>
+    <PartsCost>55600.0000</PartsCost>
+    <TransportInCost>55600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>69500.00</SalePrice>
+  <Customer>
+    <CustomerName>Alexei Tolstoi</CustomerName>
+    <CountryName>Alexei Tolstoi</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH027</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR4</Model>
+  </Vehicle>
+  <SaleDate>2016-01-01T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB028</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2016-01-01T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Eat My Exhaust Ltd</CustomerName>
+    <CountryName>Eat My Exhaust Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS029</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>355</Model>
+  </Vehicle>
+  <SaleDate>2016-01-01T00:00:00</SaleDate>
+  <Finance>
+    <Cost>127600.0000</Cost>
+    <RepairsCost>127600.0000</RepairsCost>
+    <PartsCost>127600.0000</PartsCost>
+    <TransportInCost>127600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>159500.00</SalePrice>
+  <Customer>
+    <CustomerName>Sondra Horowitz</CustomerName>
+    <CountryName>Sondra Horowitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB030</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Testarossa</Model>
+  </Vehicle>
+  <SaleDate>2016-01-01T08:00:00</SaleDate>
+  <Finance>
+    <Cost>132000.0000</Cost>
+    <RepairsCost>132000.0000</RepairsCost>
+    <PartsCost>132000.0000</PartsCost>
+    <TransportInCost>132000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>165000.00</SalePrice>
+  <LineItemDiscount>5000.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Wonderland Wheels</CustomerName>
+    <CountryName>Wonderland Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR031</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulia</Model>
+  </Vehicle>
+  <SaleDate>2016-01-07T00:00:00</SaleDate>
+  <Finance>
+    <Cost>2040.0000</Cost>
+    <RepairsCost>2040.0000</RepairsCost>
+    <PartsCost>2040.0000</PartsCost>
+    <TransportInCost>2040.0000</TransportInCost>
+  </Finance>
+  <SalePrice>2550.00</SalePrice>
+  <LineItemDiscount>50.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>M. Pierre Dubois</CustomerName>
+    <CountryName>M. Pierre Dubois</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB032</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2016-01-07T00:00:00</SaleDate>
+  <Finance>
+    <Cost>23600.0000</Cost>
+    <RepairsCost>23600.0000</RepairsCost>
+    <PartsCost>23600.0000</PartsCost>
+    <TransportInCost>23600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>29500.00</SalePrice>
+  <Customer>
+    <CustomerName>Posh Vehicles Ltd</CustomerName>
+    <CountryName>Posh Vehicles Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS033</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2016-01-09T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10120.0000</Cost>
+    <RepairsCost>10120.0000</RepairsCost>
+    <PartsCost>10120.0000</PartsCost>
+    <TransportInCost>10120.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12650.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Jason B. Wight</CustomerName>
+    <CountryName>Jason B. Wight</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB034</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Continental</Model>
+  </Vehicle>
+  <SaleDate>2016-01-22T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45560.0000</Cost>
+    <RepairsCost>45560.0000</RepairsCost>
+    <PartsCost>45560.0000</PartsCost>
+    <TransportInCost>45560.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56950.00</SalePrice>
+  <Customer>
+    <CustomerName>Silver HubCaps</CustomerName>
+    <CountryName>Silver HubCaps</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB035</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2016-02-22T00:00:00</SaleDate>
+  <Finance>
+    <Cost>44800.0000</Cost>
+    <RepairsCost>44800.0000</RepairsCost>
+    <PartsCost>44800.0000</PartsCost>
+    <TransportInCost>44800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56000.00</SalePrice>
+  <Customer>
+    <CustomerName>Stan Collywobble</CustomerName>
+    <CountryName>Stan Collywobble</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE036</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Flying Spur</Model>
+  </Vehicle>
+  <SaleDate>2016-02-17T00:00:00</SaleDate>
+  <Finance>
+    <Cost>52712.0000</Cost>
+    <RepairsCost>52712.0000</RepairsCost>
+    <PartsCost>52712.0000</PartsCost>
+    <TransportInCost>52712.0000</TransportInCost>
+  </Finance>
+  <SalePrice>65890.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Glitz</CustomerName>
+    <CountryName>Glitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE036</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulia</Model>
+  </Vehicle>
+  <SaleDate>2016-02-17T00:00:00</SaleDate>
+  <Finance>
+    <Cost>4800.0000</Cost>
+    <RepairsCost>4800.0000</RepairsCost>
+    <PartsCost>4800.0000</PartsCost>
+    <TransportInCost>4800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>6000.00</SalePrice>
+  <Customer>
+    <CustomerName>Glitz</CustomerName>
+    <CountryName>Glitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR037</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>924</Model>
+  </Vehicle>
+  <SaleDate>2016-02-16T00:00:00</SaleDate>
+  <Finance>
+    <Cost>31600.0000</Cost>
+    <RepairsCost>31600.0000</RepairsCost>
+    <PartsCost>31600.0000</PartsCost>
+    <TransportInCost>31600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>39500.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>SuperSport S.A.R.L.</CustomerName>
+    <CountryName>SuperSport S.A.R.L.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB038</InvoiceNumber>
+  <Vehicle>
+    <Make>Lamborghini</Make>
+    <Model>Countach</Model>
+  </Vehicle>
+  <SaleDate>2016-02-28T10:10:00</SaleDate>
+  <Finance>
+    <Cost>2920.0000</Cost>
+    <RepairsCost>2920.0000</RepairsCost>
+    <PartsCost>2920.0000</PartsCost>
+    <TransportInCost>2920.0000</TransportInCost>
+  </Finance>
+  <SalePrice>3650.00</SalePrice>
+  <Customer>
+    <CustomerName>Magic Motors</CustomerName>
+    <CountryName>Magic Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH039</InvoiceNumber>
+  <Vehicle>
+    <Make>Lamborghini</Make>
+    <Model>Diabolo</Model>
+  </Vehicle>
+  <SaleDate>2016-03-20T00:00:00</SaleDate>
+  <Finance>
+    <Cost>176400.0000</Cost>
+    <RepairsCost>176400.0000</RepairsCost>
+    <PartsCost>176400.0000</PartsCost>
+    <TransportInCost>176400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>220500.00</SalePrice>
+  <Customer>
+    <CustomerName>Matterhorn Motors</CustomerName>
+    <CountryName>Matterhorn Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB040</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Mondial</Model>
+  </Vehicle>
+  <SaleDate>2016-04-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>82360.0000</Cost>
+    <RepairsCost>82360.0000</RepairsCost>
+    <PartsCost>82360.0000</PartsCost>
+    <TransportInCost>82360.0000</TransportInCost>
+  </Finance>
+  <SalePrice>102950.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>King Leer Cars</CustomerName>
+    <CountryName>King Leer Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS041</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2016-04-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>14000.0000</Cost>
+    <RepairsCost>14000.0000</RepairsCost>
+    <PartsCost>14000.0000</PartsCost>
+    <TransportInCost>14000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>17500.00</SalePrice>
+  <Customer>
+    <CustomerName>Jason B. Wight</CustomerName>
+    <CountryName>Jason B. Wight</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE043</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>360</Model>
+  </Vehicle>
+  <SaleDate>2016-04-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Glitz</CustomerName>
+    <CountryName>Glitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB044</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulia</Model>
+  </Vehicle>
+  <SaleDate>2016-04-30T11:27:00</SaleDate>
+  <Finance>
+    <Cost>14000.0000</Cost>
+    <RepairsCost>14000.0000</RepairsCost>
+    <PartsCost>14000.0000</PartsCost>
+    <TransportInCost>14000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>17500.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Silver HubCaps</CustomerName>
+    <CountryName>Silver HubCaps</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB045</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Spider</Model>
+  </Vehicle>
+  <SaleDate>2016-04-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <Customer>
+    <CustomerName>Wonderland Wheels</CustomerName>
+    <CountryName>Wonderland Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB046</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XJS</Model>
+  </Vehicle>
+  <SaleDate>2016-05-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7960.0000</Cost>
+    <RepairsCost>7960.0000</RepairsCost>
+    <PartsCost>7960.0000</PartsCost>
+    <TransportInCost>7960.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9950.00</SalePrice>
+  <Customer>
+    <CustomerName>Alexei Tolstoi</CustomerName>
+    <CountryName>Alexei Tolstoi</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB046</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>E-Type</Model>
+  </Vehicle>
+  <SaleDate>2016-05-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>31600.0000</Cost>
+    <RepairsCost>31600.0000</RepairsCost>
+    <PartsCost>31600.0000</PartsCost>
+    <TransportInCost>31600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>39500.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Alexei Tolstoi</CustomerName>
+    <CountryName>Alexei Tolstoi</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR047</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2016-05-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>39664.0000</Cost>
+    <RepairsCost>39664.0000</RepairsCost>
+    <PartsCost>39664.0000</PartsCost>
+    <TransportInCost>39664.0000</TransportInCost>
+  </Finance>
+  <SalePrice>49580.00</SalePrice>
+  <Customer>
+    <CustomerName>SuperSport S.A.R.L.</CustomerName>
+    <CountryName>SuperSport S.A.R.L.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR048</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR4</Model>
+  </Vehicle>
+  <SaleDate>2016-06-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>4400.0000</Cost>
+    <RepairsCost>4400.0000</RepairsCost>
+    <PartsCost>4400.0000</PartsCost>
+    <TransportInCost>4400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>5500.00</SalePrice>
+  <Customer>
+    <CustomerName>M. Pierre Dubois</CustomerName>
+    <CountryName>M. Pierre Dubois</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB049</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2016-06-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>17720.0000</Cost>
+    <RepairsCost>17720.0000</RepairsCost>
+    <PartsCost>17720.0000</PartsCost>
+    <TransportInCost>17720.0000</TransportInCost>
+  </Finance>
+  <SalePrice>22150.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB050</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK120</Model>
+  </Vehicle>
+  <SaleDate>2016-06-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>28000.0000</Cost>
+    <RepairsCost>28000.0000</RepairsCost>
+    <PartsCost>28000.0000</PartsCost>
+    <TransportInCost>28000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>35000.00</SalePrice>
+  <Customer>
+    <CustomerName>Peter Smith</CustomerName>
+    <CountryName>Peter Smith</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR051</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK150</Model>
+  </Vehicle>
+  <SaleDate>2016-06-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>23720.0000</Cost>
+    <RepairsCost>23720.0000</RepairsCost>
+    <PartsCost>23720.0000</PartsCost>
+    <TransportInCost>23720.0000</TransportInCost>
+  </Finance>
+  <SalePrice>29650.00</SalePrice>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR051</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2016-06-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>36400.0000</Cost>
+    <RepairsCost>36400.0000</RepairsCost>
+    <PartsCost>36400.0000</PartsCost>
+    <TransportInCost>36400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45500.00</SalePrice>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR051</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Flying Spur</Model>
+  </Vehicle>
+  <SaleDate>2016-06-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB052</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2016-07-01T08:00:00</SaleDate>
+  <Finance>
+    <Cost>12520.0000</Cost>
+    <RepairsCost>12520.0000</RepairsCost>
+    <PartsCost>12520.0000</PartsCost>
+    <TransportInCost>12520.0000</TransportInCost>
+  </Finance>
+  <SalePrice>15650.00</SalePrice>
+  <Customer>
+    <CustomerName>Liverpool Executive Prestige Vehicles</CustomerName>
+    <CountryName>Liverpool Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES192</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2017-11-01T17:36:00</SaleDate>
+  <Finance>
+    <Cost>39600.0000</Cost>
+    <RepairsCost>39600.0000</RepairsCost>
+    <PartsCost>39600.0000</PartsCost>
+    <TransportInCost>39600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>49500.00</SalePrice>
+  <Customer>
+    <CustomerName>Antonio Maura</CustomerName>
+    <CountryName>Antonio Maura</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS053</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulia</Model>
+  </Vehicle>
+  <SaleDate>2016-07-06T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Jason B. Wight</CustomerName>
+    <CountryName>Jason B. Wight</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB054</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Testarossa</Model>
+  </Vehicle>
+  <SaleDate>2016-07-25T10:00:00</SaleDate>
+  <Finance>
+    <Cost>156000.0000</Cost>
+    <RepairsCost>156000.0000</RepairsCost>
+    <PartsCost>156000.0000</PartsCost>
+    <TransportInCost>156000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>195000.00</SalePrice>
+  <Customer>
+    <CustomerName>Mrs. Ivana Telford</CustomerName>
+    <CountryName>Mrs. Ivana Telford</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB055</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>355</Model>
+  </Vehicle>
+  <SaleDate>2016-07-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>164000.0000</Cost>
+    <RepairsCost>164000.0000</RepairsCost>
+    <PartsCost>164000.0000</PartsCost>
+    <TransportInCost>164000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>205000.00</SalePrice>
+  <Customer>
+    <CustomerName>Alexei Tolstoi</CustomerName>
+    <CountryName>Alexei Tolstoi</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB056</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>959</Model>
+  </Vehicle>
+  <SaleDate>2016-07-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>53200.0000</Cost>
+    <RepairsCost>53200.0000</RepairsCost>
+    <PartsCost>53200.0000</PartsCost>
+    <TransportInCost>53200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>66500.00</SalePrice>
+  <Customer>
+    <CustomerName>Convertible Dreams</CustomerName>
+    <CountryName>Convertible Dreams</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB057</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>928</Model>
+  </Vehicle>
+  <SaleDate>2016-07-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>15600.0000</Cost>
+    <RepairsCost>15600.0000</RepairsCost>
+    <PartsCost>15600.0000</PartsCost>
+    <TransportInCost>15600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>19500.00</SalePrice>
+  <Customer>
+    <CustomerName>Kieran O'Harris</CustomerName>
+    <CountryName>Kieran O'Harris</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES058</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Flying Spur</Model>
+  </Vehicle>
+  <SaleDate>2016-07-26T00:00:00</SaleDate>
+  <Finance>
+    <Cost>63600.0000</Cost>
+    <RepairsCost>63600.0000</RepairsCost>
+    <PartsCost>63600.0000</PartsCost>
+    <TransportInCost>63600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>79500.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Prestige Imports</CustomerName>
+    <CountryName>Prestige Imports</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT059</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR4</Model>
+  </Vehicle>
+  <SaleDate>2016-07-26T10:00:00</SaleDate>
+  <Finance>
+    <Cost>11672.0000</Cost>
+    <RepairsCost>11672.0000</RepairsCost>
+    <PartsCost>11672.0000</PartsCost>
+    <TransportInCost>11672.0000</TransportInCost>
+  </Finance>
+  <SalePrice>14590.00</SalePrice>
+  <Customer>
+    <CustomerName>Prestissimo!</CustomerName>
+    <CountryName>Prestissimo!</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES060</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2016-08-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10200.0000</Cost>
+    <RepairsCost>10200.0000</RepairsCost>
+    <PartsCost>10200.0000</PartsCost>
+    <TransportInCost>10200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12750.00</SalePrice>
+  <Customer>
+    <CustomerName>Prestige Imports</CustomerName>
+    <CountryName>Prestige Imports</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB137</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2017-03-31T16:08:00</SaleDate>
+  <Finance>
+    <Cost>180000.0000</Cost>
+    <RepairsCost>180000.0000</RepairsCost>
+    <PartsCost>180000.0000</PartsCost>
+    <TransportInCost>180000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>225000.00</SalePrice>
+  <Customer>
+    <CustomerName>Liverpool Executive Prestige Vehicles</CustomerName>
+    <CountryName>Liverpool Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB061</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2016-08-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>36480.0000</Cost>
+    <RepairsCost>36480.0000</RepairsCost>
+    <PartsCost>36480.0000</PartsCost>
+    <TransportInCost>36480.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45600.00</SalePrice>
+  <Customer>
+    <CustomerName>Stan Collywobble</CustomerName>
+    <CountryName>Stan Collywobble</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB062</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR6</Model>
+  </Vehicle>
+  <SaleDate>2016-08-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>5200.0000</Cost>
+    <RepairsCost>5200.0000</RepairsCost>
+    <PartsCost>5200.0000</PartsCost>
+    <TransportInCost>5200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>6500.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Silver HubCaps</CustomerName>
+    <CountryName>Silver HubCaps</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB063</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2016-08-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>82000.0000</Cost>
+    <RepairsCost>82000.0000</RepairsCost>
+    <PartsCost>82000.0000</PartsCost>
+    <TransportInCost>82000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>102500.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Alexei Tolstoi</CustomerName>
+    <CountryName>Alexei Tolstoi</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR064</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK120</Model>
+  </Vehicle>
+  <SaleDate>2016-08-09T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <Customer>
+    <CustomerName>SuperSport S.A.R.L.</CustomerName>
+    <CountryName>SuperSport S.A.R.L.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB065</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vanquish</Model>
+  </Vehicle>
+  <SaleDate>2016-08-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Convertible Dreams</CustomerName>
+    <CountryName>Convertible Dreams</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE066</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Rapide</Model>
+  </Vehicle>
+  <SaleDate>2016-08-12T10:00:00</SaleDate>
+  <Finance>
+    <Cost>49200.0000</Cost>
+    <RepairsCost>49200.0000</RepairsCost>
+    <PartsCost>49200.0000</PartsCost>
+    <TransportInCost>49200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>61500.00</SalePrice>
+  <Customer>
+    <CustomerName>WunderKar</CustomerName>
+    <CountryName>WunderKar</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH067</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2016-08-13T00:00:00</SaleDate>
+  <Finance>
+    <Cost>63600.0000</Cost>
+    <RepairsCost>63600.0000</RepairsCost>
+    <PartsCost>63600.0000</PartsCost>
+    <TransportInCost>63600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>79500.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB068</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>924</Model>
+  </Vehicle>
+  <SaleDate>2016-08-13T00:00:00</SaleDate>
+  <Finance>
+    <Cost>13200.0000</Cost>
+    <RepairsCost>13200.0000</RepairsCost>
+    <PartsCost>13200.0000</PartsCost>
+    <TransportInCost>13200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>16500.00</SalePrice>
+  <Customer>
+    <CustomerName>Peter McLuckie</CustomerName>
+    <CountryName>Peter McLuckie</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB068</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2016-08-13T00:00:00</SaleDate>
+  <Finance>
+    <Cost>26880.0000</Cost>
+    <RepairsCost>26880.0000</RepairsCost>
+    <PartsCost>26880.0000</PartsCost>
+    <TransportInCost>26880.0000</TransportInCost>
+  </Finance>
+  <SalePrice>33600.00</SalePrice>
+  <Customer>
+    <CustomerName>Peter McLuckie</CustomerName>
+    <CountryName>Peter McLuckie</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR069</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2016-08-13T00:00:00</SaleDate>
+  <Finance>
+    <Cost>53200.0000</Cost>
+    <RepairsCost>53200.0000</RepairsCost>
+    <PartsCost>53200.0000</PartsCost>
+    <TransportInCost>53200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>66500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Casseroles Chromes</CustomerName>
+    <CountryName>Casseroles Chromes</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT070</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB5</Model>
+  </Vehicle>
+  <SaleDate>2016-08-19T00:00:00</SaleDate>
+  <Finance>
+    <Cost>36000.0000</Cost>
+    <RepairsCost>36000.0000</RepairsCost>
+    <PartsCost>36000.0000</PartsCost>
+    <TransportInCost>36000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45000.00</SalePrice>
+  <Customer>
+    <CustomerName>Prestissimo!</CustomerName>
+    <CountryName>Prestissimo!</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE071</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2016-08-19T00:00:00</SaleDate>
+  <Finance>
+    <Cost>15600.0000</Cost>
+    <RepairsCost>15600.0000</RepairsCost>
+    <PartsCost>15600.0000</PartsCost>
+    <TransportInCost>15600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>19500.00</SalePrice>
+  <Customer>
+    <CustomerName>Glitz</CustomerName>
+    <CountryName>Glitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB072</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Flying Spur</Model>
+  </Vehicle>
+  <SaleDate>2016-08-21T00:00:00</SaleDate>
+  <Finance>
+    <Cost>61200.0000</Cost>
+    <RepairsCost>61200.0000</RepairsCost>
+    <PartsCost>61200.0000</PartsCost>
+    <TransportInCost>61200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>76500.00</SalePrice>
+  <Customer>
+    <CustomerName>Silver HubCaps</CustomerName>
+    <CountryName>Silver HubCaps</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB073</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2016-08-22T08:00:00</SaleDate>
+  <Finance>
+    <Cost>36720.0000</Cost>
+    <RepairsCost>36720.0000</RepairsCost>
+    <PartsCost>36720.0000</PartsCost>
+    <TransportInCost>36720.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45900.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Convertible Dreams</CustomerName>
+    <CountryName>Convertible Dreams</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURBE074</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vantage</Model>
+  </Vehicle>
+  <SaleDate>2016-08-23T00:00:00</SaleDate>
+  <Finance>
+    <Cost>100000.0000</Cost>
+    <RepairsCost>100000.0000</RepairsCost>
+    <PartsCost>100000.0000</PartsCost>
+    <TransportInCost>100000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>125000.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Diplomatic Cars</CustomerName>
+    <CountryName>Diplomatic Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR075</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vanquish</Model>
+  </Vehicle>
+  <SaleDate>2016-08-24T00:00:00</SaleDate>
+  <Finance>
+    <Cost>52400.0000</Cost>
+    <RepairsCost>52400.0000</RepairsCost>
+    <PartsCost>52400.0000</PartsCost>
+    <TransportInCost>52400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>65500.00</SalePrice>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS076</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Flying Spur</Model>
+  </Vehicle>
+  <SaleDate>2016-08-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>73720.0000</Cost>
+    <RepairsCost>73720.0000</RepairsCost>
+    <PartsCost>73720.0000</PartsCost>
+    <TransportInCost>73720.0000</TransportInCost>
+  </Finance>
+  <SalePrice>92150.00</SalePrice>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB077</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>928</Model>
+  </Vehicle>
+  <SaleDate>2016-08-28T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7600.0000</Cost>
+    <RepairsCost>7600.0000</RepairsCost>
+    <PartsCost>7600.0000</PartsCost>
+    <TransportInCost>7600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9500.00</SalePrice>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT078</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR6</Model>
+  </Vehicle>
+  <SaleDate>2016-08-28T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7960.0000</Cost>
+    <RepairsCost>7960.0000</RepairsCost>
+    <PartsCost>7960.0000</PartsCost>
+    <TransportInCost>7960.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9950.00</SalePrice>
+  <Customer>
+    <CustomerName>Prestissimo!</CustomerName>
+    <CountryName>Prestissimo!</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB079</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2016-08-29T00:00:00</SaleDate>
+  <Finance>
+    <Cost>4544.0000</Cost>
+    <RepairsCost>4544.0000</RepairsCost>
+    <PartsCost>4544.0000</PartsCost>
+    <TransportInCost>4544.0000</TransportInCost>
+  </Finance>
+  <SalePrice>5680.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>King Leer Cars</CustomerName>
+    <CountryName>King Leer Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH080</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR7</Model>
+  </Vehicle>
+  <SaleDate>2016-08-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>15600.0000</Cost>
+    <RepairsCost>15600.0000</RepairsCost>
+    <PartsCost>15600.0000</PartsCost>
+    <TransportInCost>15600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>19500.00</SalePrice>
+  <Customer>
+    <CustomerName>Matterhorn Motors</CustomerName>
+    <CountryName>Matterhorn Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB081</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>GT6</Model>
+  </Vehicle>
+  <SaleDate>2016-09-04T00:00:00</SaleDate>
+  <Finance>
+    <Cost>2800.0000</Cost>
+    <RepairsCost>2800.0000</RepairsCost>
+    <PartsCost>2800.0000</PartsCost>
+    <TransportInCost>2800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>3500.00</SalePrice>
+  <Customer>
+    <CustomerName>Alexei Tolstoi</CustomerName>
+    <CountryName>Alexei Tolstoi</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH082</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR7</Model>
+  </Vehicle>
+  <SaleDate>2016-09-04T00:00:00</SaleDate>
+  <Finance>
+    <Cost>3160.0000</Cost>
+    <RepairsCost>3160.0000</RepairsCost>
+    <PartsCost>3160.0000</PartsCost>
+    <TransportInCost>3160.0000</TransportInCost>
+  </Finance>
+  <SalePrice>3950.00</SalePrice>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB083</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2016-09-04T00:00:00</SaleDate>
+  <Finance>
+    <Cost>16760.0000</Cost>
+    <RepairsCost>16760.0000</RepairsCost>
+    <PartsCost>16760.0000</PartsCost>
+    <TransportInCost>16760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>20950.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Posh Vehicles Ltd</CustomerName>
+    <CountryName>Posh Vehicles Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB084</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2016-09-06T00:00:00</SaleDate>
+  <Finance>
+    <Cost>6000.0000</Cost>
+    <RepairsCost>6000.0000</RepairsCost>
+    <PartsCost>6000.0000</PartsCost>
+    <TransportInCost>6000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>7500.00</SalePrice>
+  <LineItemDiscount>75.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Birmingham Executive Prestige Vehicles</CustomerName>
+    <CountryName>Birmingham Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB085</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2016-09-07T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45200.0000</Cost>
+    <RepairsCost>45200.0000</RepairsCost>
+    <PartsCost>45200.0000</PartsCost>
+    <TransportInCost>45200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56500.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Snazzy Roadsters</CustomerName>
+    <CountryName>Snazzy Roadsters</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB086</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vantage</Model>
+  </Vehicle>
+  <SaleDate>2016-09-07T00:00:00</SaleDate>
+  <Finance>
+    <Cost>39600.0000</Cost>
+    <RepairsCost>39600.0000</RepairsCost>
+    <PartsCost>39600.0000</PartsCost>
+    <TransportInCost>39600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>49500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Stan Collywobble</CustomerName>
+    <CountryName>Stan Collywobble</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES087</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2016-09-11T00:00:00</SaleDate>
+  <Finance>
+    <Cost>55120.0000</Cost>
+    <RepairsCost>55120.0000</RepairsCost>
+    <PartsCost>55120.0000</PartsCost>
+    <TransportInCost>55120.0000</TransportInCost>
+  </Finance>
+  <SalePrice>68900.00</SalePrice>
+  <Customer>
+    <CustomerName>Prestige Imports</CustomerName>
+    <CountryName>Prestige Imports</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB088</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vanquish</Model>
+  </Vehicle>
+  <SaleDate>2016-09-11T00:00:00</SaleDate>
+  <Finance>
+    <Cost>44000.0000</Cost>
+    <RepairsCost>44000.0000</RepairsCost>
+    <PartsCost>44000.0000</PartsCost>
+    <TransportInCost>44000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>55000.00</SalePrice>
+  <Customer>
+    <CustomerName>Magic Motors</CustomerName>
+    <CountryName>Magic Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR089</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XJ12</Model>
+  </Vehicle>
+  <SaleDate>2016-09-14T00:00:00</SaleDate>
+  <Finance>
+    <Cost>2860.0000</Cost>
+    <RepairsCost>2860.0000</RepairsCost>
+    <PartsCost>2860.0000</PartsCost>
+    <TransportInCost>2860.0000</TransportInCost>
+  </Finance>
+  <SalePrice>3575.00</SalePrice>
+  <Customer>
+    <CustomerName>M. Pierre Dubois</CustomerName>
+    <CountryName>M. Pierre Dubois</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB090</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XJ12</Model>
+  </Vehicle>
+  <SaleDate>2016-09-14T00:00:00</SaleDate>
+  <Finance>
+    <Cost>28200.0000</Cost>
+    <RepairsCost>28200.0000</RepairsCost>
+    <PartsCost>28200.0000</PartsCost>
+    <TransportInCost>28200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>35250.00</SalePrice>
+  <Customer>
+    <CustomerName>Glittering Prize Cars Ltd</CustomerName>
+    <CountryName>Glittering Prize Cars Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR091</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK120</Model>
+  </Vehicle>
+  <SaleDate>2016-09-16T00:00:00</SaleDate>
+  <Finance>
+    <Cost>15680.0000</Cost>
+    <RepairsCost>15680.0000</RepairsCost>
+    <PartsCost>15680.0000</PartsCost>
+    <TransportInCost>15680.0000</TransportInCost>
+  </Finance>
+  <SalePrice>19600.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>La Bagnole de Luxe</CustomerName>
+    <CountryName>La Bagnole de Luxe</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR091</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK120</Model>
+  </Vehicle>
+  <SaleDate>2016-09-16T00:00:00</SaleDate>
+  <Finance>
+    <Cost>22312.0000</Cost>
+    <RepairsCost>22312.0000</RepairsCost>
+    <PartsCost>22312.0000</PartsCost>
+    <TransportInCost>22312.0000</TransportInCost>
+  </Finance>
+  <SalePrice>27890.00</SalePrice>
+  <Customer>
+    <CustomerName>La Bagnole de Luxe</CustomerName>
+    <CountryName>La Bagnole de Luxe</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB092</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2016-09-16T00:00:00</SaleDate>
+  <Finance>
+    <Cost>36760.0000</Cost>
+    <RepairsCost>36760.0000</RepairsCost>
+    <PartsCost>36760.0000</PartsCost>
+    <TransportInCost>36760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45950.00</SalePrice>
+  <Customer>
+    <CustomerName>Alexei Tolstoi</CustomerName>
+    <CountryName>Alexei Tolstoi</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB093</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>924</Model>
+  </Vehicle>
+  <SaleDate>2016-09-18T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7960.0000</Cost>
+    <RepairsCost>7960.0000</RepairsCost>
+    <PartsCost>7960.0000</PartsCost>
+    <TransportInCost>7960.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9950.00</SalePrice>
+  <Customer>
+    <CustomerName>King Leer Cars</CustomerName>
+    <CountryName>King Leer Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB094</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2016-09-19T00:00:00</SaleDate>
+  <Finance>
+    <Cost>5240.0000</Cost>
+    <RepairsCost>5240.0000</RepairsCost>
+    <PartsCost>5240.0000</PartsCost>
+    <TransportInCost>5240.0000</TransportInCost>
+  </Finance>
+  <SalePrice>6550.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURBE125</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR6</Model>
+  </Vehicle>
+  <SaleDate>2017-02-12T16:02:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Diplomatic Cars</CustomerName>
+    <CountryName>Diplomatic Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB095</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Arnage</Model>
+  </Vehicle>
+  <SaleDate>2016-10-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>61200.0000</Cost>
+    <RepairsCost>61200.0000</RepairsCost>
+    <PartsCost>61200.0000</PartsCost>
+    <TransportInCost>61200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>76500.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Stan Collywobble</CustomerName>
+    <CountryName>Stan Collywobble</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR227</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Brooklands</Model>
+  </Vehicle>
+  <SaleDate>2018-02-17T00:00:00</SaleDate>
+  <Finance>
+    <Cost>151600.0000</Cost>
+    <RepairsCost>151600.0000</RepairsCost>
+    <PartsCost>151600.0000</PartsCost>
+    <TransportInCost>151600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>189500.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Capots Reluisants S.A.</CustomerName>
+    <CountryName>Capots Reluisants S.A.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES096</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Phantom</Model>
+  </Vehicle>
+  <SaleDate>2016-10-05T10:00:00</SaleDate>
+  <Finance>
+    <Cost>95680.0000</Cost>
+    <RepairsCost>95680.0000</RepairsCost>
+    <PartsCost>95680.0000</PartsCost>
+    <TransportInCost>95680.0000</TransportInCost>
+  </Finance>
+  <SalePrice>119600.00</SalePrice>
+  <Customer>
+    <CustomerName>Prestige Imports</CustomerName>
+    <CountryName>Prestige Imports</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB097</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Arnage</Model>
+  </Vehicle>
+  <SaleDate>2016-10-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>68520.0000</Cost>
+    <RepairsCost>68520.0000</RepairsCost>
+    <PartsCost>68520.0000</PartsCost>
+    <TransportInCost>68520.0000</TransportInCost>
+  </Finance>
+  <SalePrice>85650.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Executive Motor Delight</CustomerName>
+    <CountryName>Executive Motor Delight</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB097</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR7</Model>
+  </Vehicle>
+  <SaleDate>2016-10-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7960.0000</Cost>
+    <RepairsCost>7960.0000</RepairsCost>
+    <PartsCost>7960.0000</PartsCost>
+    <TransportInCost>7960.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9950.00</SalePrice>
+  <Customer>
+    <CustomerName>Executive Motor Delight</CustomerName>
+    <CountryName>Executive Motor Delight</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES098</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR6</Model>
+  </Vehicle>
+  <SaleDate>2016-10-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <Customer>
+    <CustomerName>Alicia Almodovar</CustomerName>
+    <CountryName>Alicia Almodovar</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT099</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB4</Model>
+  </Vehicle>
+  <SaleDate>2016-10-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Ronaldo Bianco</CustomerName>
+    <CountryName>Ronaldo Bianco</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB100</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB5</Model>
+  </Vehicle>
+  <SaleDate>2016-11-03T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45512.0000</Cost>
+    <RepairsCost>45512.0000</RepairsCost>
+    <PartsCost>45512.0000</PartsCost>
+    <TransportInCost>45512.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56890.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Birmingham Executive Prestige Vehicles</CustomerName>
+    <CountryName>Birmingham Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB101</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2016-11-04T00:00:00</SaleDate>
+  <Finance>
+    <Cost>44000.0000</Cost>
+    <RepairsCost>44000.0000</RepairsCost>
+    <PartsCost>44000.0000</PartsCost>
+    <TransportInCost>44000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>55000.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Glittering Prize Cars Ltd</CustomerName>
+    <CountryName>Glittering Prize Cars Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB102</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR6</Model>
+  </Vehicle>
+  <SaleDate>2016-12-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7992.0000</Cost>
+    <RepairsCost>7992.0000</RepairsCost>
+    <PartsCost>7992.0000</PartsCost>
+    <TransportInCost>7992.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9990.00</SalePrice>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB102</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2016-12-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>37200.0000</Cost>
+    <RepairsCost>37200.0000</RepairsCost>
+    <PartsCost>37200.0000</PartsCost>
+    <TransportInCost>37200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>46500.00</SalePrice>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB102</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR7</Model>
+  </Vehicle>
+  <SaleDate>2016-12-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7600.0000</Cost>
+    <RepairsCost>7600.0000</RepairsCost>
+    <PartsCost>7600.0000</PartsCost>
+    <TransportInCost>7600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9500.00</SalePrice>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB102</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2016-12-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>100400.0000</Cost>
+    <RepairsCost>100400.0000</RepairsCost>
+    <PartsCost>100400.0000</PartsCost>
+    <TransportInCost>100400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>125500.00</SalePrice>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT103</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Phantom</Model>
+  </Vehicle>
+  <SaleDate>2016-12-06T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <LineItemDiscount>5000.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Prestissimo!</CustomerName>
+    <CountryName>Prestissimo!</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR104</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Ghost</Model>
+  </Vehicle>
+  <SaleDate>2016-12-06T00:00:00</SaleDate>
+  <Finance>
+    <Cost>48400.0000</Cost>
+    <RepairsCost>48400.0000</RepairsCost>
+    <PartsCost>48400.0000</PartsCost>
+    <TransportInCost>48400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>60500.00</SalePrice>
+  <Customer>
+    <CustomerName>La Bagnole de Luxe</CustomerName>
+    <CountryName>La Bagnole de Luxe</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB105</InvoiceNumber>
+  <Vehicle>
+    <Make>Lamborghini</Make>
+    <Model>Countach</Model>
+  </Vehicle>
+  <SaleDate>2016-12-06T00:00:00</SaleDate>
+  <Finance>
+    <Cost>98800.0000</Cost>
+    <RepairsCost>98800.0000</RepairsCost>
+    <PartsCost>98800.0000</PartsCost>
+    <TransportInCost>98800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>123500.00</SalePrice>
+  <LineItemDiscount>5000.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Convertible Dreams</CustomerName>
+    <CountryName>Convertible Dreams</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE106</InvoiceNumber>
+  <Vehicle>
+    <Make>Lamborghini</Make>
+    <Model>Diabolo</Model>
+  </Vehicle>
+  <SaleDate>2016-12-08T00:00:00</SaleDate>
+  <Finance>
+    <Cost>20000.0000</Cost>
+    <RepairsCost>20000.0000</RepairsCost>
+    <PartsCost>20000.0000</PartsCost>
+    <TransportInCost>20000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>25000.00</SalePrice>
+  <Customer>
+    <CustomerName>Glitz</CustomerName>
+    <CountryName>Glitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR107</InvoiceNumber>
+  <Vehicle>
+    <Make>Lamborghini</Make>
+    <Model>Diabolo</Model>
+  </Vehicle>
+  <SaleDate>2016-12-20T00:00:00</SaleDate>
+  <Finance>
+    <Cost>135600.0000</Cost>
+    <RepairsCost>135600.0000</RepairsCost>
+    <PartsCost>135600.0000</PartsCost>
+    <TransportInCost>135600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>169500.00</SalePrice>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB108</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Brooklands</Model>
+  </Vehicle>
+  <SaleDate>2016-12-28T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <Customer>
+    <CustomerName>Liverpool Executive Prestige Vehicles</CustomerName>
+    <CountryName>Liverpool Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES109</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>959</Model>
+  </Vehicle>
+  <SaleDate>2016-12-31T10:00:00</SaleDate>
+  <Finance>
+    <Cost>31600.0000</Cost>
+    <RepairsCost>31600.0000</RepairsCost>
+    <PartsCost>31600.0000</PartsCost>
+    <TransportInCost>31600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>39500.00</SalePrice>
+  <Customer>
+    <CustomerName>Alicia Almodovar</CustomerName>
+    <CountryName>Alicia Almodovar</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR110</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>Boxster</Model>
+  </Vehicle>
+  <SaleDate>2017-01-01T11:12:00</SaleDate>
+  <Finance>
+    <Cost>18000.0000</Cost>
+    <RepairsCost>18000.0000</RepairsCost>
+    <PartsCost>18000.0000</PartsCost>
+    <TransportInCost>18000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>22500.00</SalePrice>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB111</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2017-01-05T11:55:00</SaleDate>
+  <Finance>
+    <Cost>100000.0000</Cost>
+    <RepairsCost>100000.0000</RepairsCost>
+    <PartsCost>100000.0000</PartsCost>
+    <TransportInCost>100000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>125000.00</SalePrice>
+  <Customer>
+    <CustomerName>Peter Smith</CustomerName>
+    <CountryName>Peter Smith</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB112</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Silver Shadow</Model>
+  </Vehicle>
+  <SaleDate>2017-01-10T15:56:00</SaleDate>
+  <Finance>
+    <Cost>68000.0000</Cost>
+    <RepairsCost>68000.0000</RepairsCost>
+    <PartsCost>68000.0000</PartsCost>
+    <TransportInCost>68000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>85000.00</SalePrice>
+  <Customer>
+    <CustomerName>Eat My Exhaust Ltd</CustomerName>
+    <CountryName>Eat My Exhaust Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR113</InvoiceNumber>
+  <Vehicle>
+    <Make>Peugeot</Make>
+    <Model>203</Model>
+  </Vehicle>
+  <SaleDate>2017-01-21T13:56:00</SaleDate>
+  <Finance>
+    <Cost>1000.0000</Cost>
+    <RepairsCost>1000.0000</RepairsCost>
+    <PartsCost>1000.0000</PartsCost>
+    <TransportInCost>1000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>1250.00</SalePrice>
+  <Customer>
+    <CustomerName>La Bagnole de Luxe</CustomerName>
+    <CountryName>La Bagnole de Luxe</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH114</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>280SL</Model>
+  </Vehicle>
+  <SaleDate>2017-01-11T17:52:00</SaleDate>
+  <Finance>
+    <Cost>18000.0000</Cost>
+    <RepairsCost>18000.0000</RepairsCost>
+    <PartsCost>18000.0000</PartsCost>
+    <TransportInCost>18000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>22500.00</SalePrice>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB115</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>355</Model>
+  </Vehicle>
+  <SaleDate>2017-01-12T18:57:00</SaleDate>
+  <Finance>
+    <Cost>100760.0000</Cost>
+    <RepairsCost>100760.0000</RepairsCost>
+    <PartsCost>100760.0000</PartsCost>
+    <TransportInCost>100760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>125950.00</SalePrice>
+  <LineItemDiscount>12500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Magic Motors</CustomerName>
+    <CountryName>Magic Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH116</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR7</Model>
+  </Vehicle>
+  <SaleDate>2017-01-13T19:58:00</SaleDate>
+  <Finance>
+    <Cost>7080.0000</Cost>
+    <RepairsCost>7080.0000</RepairsCost>
+    <PartsCost>7080.0000</PartsCost>
+    <TransportInCost>7080.0000</TransportInCost>
+  </Finance>
+  <SalePrice>8850.00</SalePrice>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB117</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2017-01-14T09:58:00</SaleDate>
+  <Finance>
+    <Cost>7960.0000</Cost>
+    <RepairsCost>7960.0000</RepairsCost>
+    <PartsCost>7960.0000</PartsCost>
+    <TransportInCost>7960.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9950.00</SalePrice>
+  <Customer>
+    <CustomerName>Posh Vehicles Ltd</CustomerName>
+    <CountryName>Posh Vehicles Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR118</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vanquish</Model>
+  </Vehicle>
+  <SaleDate>2017-01-30T10:59:00</SaleDate>
+  <Finance>
+    <Cost>45200.0000</Cost>
+    <RepairsCost>45200.0000</RepairsCost>
+    <PartsCost>45200.0000</PartsCost>
+    <TransportInCost>45200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56500.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB119</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Rapide</Model>
+  </Vehicle>
+  <SaleDate>2017-01-31T09:59:00</SaleDate>
+  <Finance>
+    <Cost>44000.0000</Cost>
+    <RepairsCost>44000.0000</RepairsCost>
+    <PartsCost>44000.0000</PartsCost>
+    <TransportInCost>44000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>55000.00</SalePrice>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB120</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vanquish</Model>
+  </Vehicle>
+  <SaleDate>2017-01-31T12:00:00</SaleDate>
+  <Finance>
+    <Cost>45560.0000</Cost>
+    <RepairsCost>45560.0000</RepairsCost>
+    <PartsCost>45560.0000</PartsCost>
+    <TransportInCost>45560.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56950.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR121</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Enzo</Model>
+  </Vehicle>
+  <SaleDate>2017-02-07T20:00:00</SaleDate>
+  <Finance>
+    <Cost>292000.0000</Cost>
+    <RepairsCost>292000.0000</RepairsCost>
+    <PartsCost>292000.0000</PartsCost>
+    <TransportInCost>292000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>365000.00</SalePrice>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR122</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Enzo</Model>
+  </Vehicle>
+  <SaleDate>2017-02-08T13:01:00</SaleDate>
+  <Finance>
+    <Cost>316000.0000</Cost>
+    <RepairsCost>316000.0000</RepairsCost>
+    <PartsCost>316000.0000</PartsCost>
+    <TransportInCost>316000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>395000.00</SalePrice>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS123</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulietta</Model>
+  </Vehicle>
+  <SaleDate>2017-02-09T17:01:00</SaleDate>
+  <Finance>
+    <Cost>17200.0000</Cost>
+    <RepairsCost>17200.0000</RepairsCost>
+    <PartsCost>17200.0000</PartsCost>
+    <TransportInCost>17200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>21500.00</SalePrice>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB124</InvoiceNumber>
+  <Vehicle>
+    <Make>Austin</Make>
+    <Model>Lichfield</Model>
+  </Vehicle>
+  <SaleDate>2017-02-10T11:02:00</SaleDate>
+  <Finance>
+    <Cost>5200.0000</Cost>
+    <RepairsCost>5200.0000</RepairsCost>
+    <PartsCost>5200.0000</PartsCost>
+    <TransportInCost>5200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>6500.00</SalePrice>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB126</InvoiceNumber>
+  <Vehicle>
+    <Make>Austin</Make>
+    <Model>Princess</Model>
+  </Vehicle>
+  <SaleDate>2017-02-14T14:03:00</SaleDate>
+  <Finance>
+    <Cost>1800.0000</Cost>
+    <RepairsCost>1800.0000</RepairsCost>
+    <PartsCost>1800.0000</PartsCost>
+    <TransportInCost>1800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>2250.00</SalePrice>
+  <Customer>
+    <CustomerName>Magic Motors</CustomerName>
+    <CountryName>Magic Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB127</InvoiceNumber>
+  <Vehicle>
+    <Make>Peugeot</Make>
+    <Model>404</Model>
+  </Vehicle>
+  <SaleDate>2017-03-05T18:03:00</SaleDate>
+  <Finance>
+    <Cost>2800.0000</Cost>
+    <RepairsCost>2800.0000</RepairsCost>
+    <PartsCost>2800.0000</PartsCost>
+    <TransportInCost>2800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>3500.00</SalePrice>
+  <Customer>
+    <CustomerName>London Executive Prestige Vehicles</CustomerName>
+    <CountryName>London Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB128</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR7</Model>
+  </Vehicle>
+  <SaleDate>2017-03-05T19:04:00</SaleDate>
+  <Finance>
+    <Cost>4544.0000</Cost>
+    <RepairsCost>4544.0000</RepairsCost>
+    <PartsCost>4544.0000</PartsCost>
+    <TransportInCost>4544.0000</TransportInCost>
+  </Finance>
+  <SalePrice>5680.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Glittering Prize Cars Ltd</CustomerName>
+    <CountryName>Glittering Prize Cars Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR129</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2017-03-05T14:04:00</SaleDate>
+  <Finance>
+    <Cost>6840.0000</Cost>
+    <RepairsCost>6840.0000</RepairsCost>
+    <PartsCost>6840.0000</PartsCost>
+    <TransportInCost>6840.0000</TransportInCost>
+  </Finance>
+  <SalePrice>8550.00</SalePrice>
+  <Customer>
+    <CustomerName>SuperSport S.A.R.L.</CustomerName>
+    <CountryName>SuperSport S.A.R.L.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB130</InvoiceNumber>
+  <Vehicle>
+    <Make>Lagonda</Make>
+    <Model>V12</Model>
+  </Vehicle>
+  <SaleDate>2017-03-10T20:05:00</SaleDate>
+  <Finance>
+    <Cost>125200.0000</Cost>
+    <RepairsCost>125200.0000</RepairsCost>
+    <PartsCost>125200.0000</PartsCost>
+    <TransportInCost>125200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>156500.00</SalePrice>
+  <LineItemDiscount>10000.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB131</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2017-03-10T16:05:00</SaleDate>
+  <Finance>
+    <Cost>45200.0000</Cost>
+    <RepairsCost>45200.0000</RepairsCost>
+    <PartsCost>45200.0000</PartsCost>
+    <TransportInCost>45200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56500.00</SalePrice>
+  <Customer>
+    <CustomerName>King Leer Cars</CustomerName>
+    <CountryName>King Leer Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURBE132</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Rapide</Model>
+  </Vehicle>
+  <SaleDate>2017-03-12T17:06:00</SaleDate>
+  <Finance>
+    <Cost>69200.0000</Cost>
+    <RepairsCost>69200.0000</RepairsCost>
+    <PartsCost>69200.0000</PartsCost>
+    <TransportInCost>69200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>86500.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Diplomatic Cars</CustomerName>
+    <CountryName>Diplomatic Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB133</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vantage</Model>
+  </Vehicle>
+  <SaleDate>2017-03-12T20:06:00</SaleDate>
+  <Finance>
+    <Cost>53200.0000</Cost>
+    <RepairsCost>53200.0000</RepairsCost>
+    <PartsCost>53200.0000</PartsCost>
+    <TransportInCost>53200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>66500.00</SalePrice>
+  <Customer>
+    <CustomerName>Magic Motors</CustomerName>
+    <CountryName>Magic Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR134</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>959</Model>
+  </Vehicle>
+  <SaleDate>2017-03-25T10:07:00</SaleDate>
+  <Finance>
+    <Cost>44480.0000</Cost>
+    <RepairsCost>44480.0000</RepairsCost>
+    <PartsCost>44480.0000</PartsCost>
+    <TransportInCost>44480.0000</TransportInCost>
+  </Finance>
+  <SalePrice>55600.00</SalePrice>
+  <Customer>
+    <CustomerName>Casseroles Chromes</CustomerName>
+    <CountryName>Casseroles Chromes</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE135</InvoiceNumber>
+  <Vehicle>
+    <Make>Lamborghini</Make>
+    <Model>Jarama</Model>
+  </Vehicle>
+  <SaleDate>2017-03-30T13:07:00</SaleDate>
+  <Finance>
+    <Cost>244000.0000</Cost>
+    <RepairsCost>244000.0000</RepairsCost>
+    <PartsCost>244000.0000</PartsCost>
+    <TransportInCost>244000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>305000.00</SalePrice>
+  <Customer>
+    <CustomerName>Glitz</CustomerName>
+    <CountryName>Glitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB138</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB5</Model>
+  </Vehicle>
+  <SaleDate>2017-03-31T18:09:00</SaleDate>
+  <Finance>
+    <Cost>34360.0000</Cost>
+    <RepairsCost>34360.0000</RepairsCost>
+    <PartsCost>34360.0000</PartsCost>
+    <TransportInCost>34360.0000</TransportInCost>
+  </Finance>
+  <SalePrice>42950.00</SalePrice>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB139</InvoiceNumber>
+  <Vehicle>
+    <Make>Citroen</Make>
+    <Model>Rosalie</Model>
+  </Vehicle>
+  <SaleDate>2017-03-31T14:09:00</SaleDate>
+  <Finance>
+    <Cost>792.0000</Cost>
+    <RepairsCost>792.0000</RepairsCost>
+    <PartsCost>792.0000</PartsCost>
+    <TransportInCost>792.0000</TransportInCost>
+  </Finance>
+  <SalePrice>990.00</SalePrice>
+  <Customer>
+    <CustomerName>Kieran O'Harris</CustomerName>
+    <CountryName>Kieran O'Harris</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES140</InvoiceNumber>
+  <Vehicle>
+    <Make>Delahaye</Make>
+    <Model>145</Model>
+  </Vehicle>
+  <SaleDate>2017-04-05T20:10:00</SaleDate>
+  <Finance>
+    <Cost>23600.0000</Cost>
+    <RepairsCost>23600.0000</RepairsCost>
+    <PartsCost>23600.0000</PartsCost>
+    <TransportInCost>23600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>29500.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Prestige Imports</CustomerName>
+    <CountryName>Prestige Imports</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR141</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Silver Seraph</Model>
+  </Vehicle>
+  <SaleDate>2017-04-06T19:10:00</SaleDate>
+  <Finance>
+    <Cost>111600.0000</Cost>
+    <RepairsCost>111600.0000</RepairsCost>
+    <PartsCost>111600.0000</PartsCost>
+    <TransportInCost>111600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>139500.00</SalePrice>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB142</InvoiceNumber>
+  <Vehicle>
+    <Make>Bugatti</Make>
+    <Model>57C</Model>
+  </Vehicle>
+  <SaleDate>2017-04-07T12:11:00</SaleDate>
+  <Finance>
+    <Cost>236000.0000</Cost>
+    <RepairsCost>236000.0000</RepairsCost>
+    <PartsCost>236000.0000</PartsCost>
+    <TransportInCost>236000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>295000.00</SalePrice>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR143</InvoiceNumber>
+  <Vehicle>
+    <Make>Bugatti</Make>
+    <Model>Veyron</Model>
+  </Vehicle>
+  <SaleDate>2017-04-07T12:11:00</SaleDate>
+  <Finance>
+    <Cost>176400.0000</Cost>
+    <RepairsCost>176400.0000</RepairsCost>
+    <PartsCost>176400.0000</PartsCost>
+    <TransportInCost>176400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>220500.00</SalePrice>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB144</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Phantom</Model>
+  </Vehicle>
+  <SaleDate>2017-05-01T17:12:00</SaleDate>
+  <Finance>
+    <Cost>63600.0000</Cost>
+    <RepairsCost>63600.0000</RepairsCost>
+    <PartsCost>63600.0000</PartsCost>
+    <TransportInCost>63600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>79500.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Liverpool Executive Prestige Vehicles</CustomerName>
+    <CountryName>Liverpool Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB145</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Wraith</Model>
+  </Vehicle>
+  <SaleDate>2017-05-01T10:12:00</SaleDate>
+  <Finance>
+    <Cost>130000.0000</Cost>
+    <RepairsCost>130000.0000</RepairsCost>
+    <PartsCost>130000.0000</PartsCost>
+    <TransportInCost>130000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>162500.00</SalePrice>
+  <Customer>
+    <CustomerName>Peter Smith</CustomerName>
+    <CountryName>Peter Smith</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT146</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK150</Model>
+  </Vehicle>
+  <SaleDate>2017-05-09T18:13:00</SaleDate>
+  <Finance>
+    <Cost>63600.0000</Cost>
+    <RepairsCost>63600.0000</RepairsCost>
+    <PartsCost>63600.0000</PartsCost>
+    <TransportInCost>63600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>79500.00</SalePrice>
+  <Customer>
+    <CustomerName>Sport.Car</CustomerName>
+    <CountryName>Sport.Car</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES147</InvoiceNumber>
+  <Vehicle>
+    <Make>Citroen</Make>
+    <Model>Torpedo</Model>
+  </Vehicle>
+  <SaleDate>2017-05-09T12:13:00</SaleDate>
+  <Finance>
+    <Cost>52712.0000</Cost>
+    <RepairsCost>52712.0000</RepairsCost>
+    <PartsCost>52712.0000</PartsCost>
+    <TransportInCost>52712.0000</TransportInCost>
+  </Finance>
+  <SalePrice>65890.00</SalePrice>
+  <Customer>
+    <CustomerName>Autos Sportivos</CustomerName>
+    <CountryName>Autos Sportivos</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT148</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB2</Model>
+  </Vehicle>
+  <SaleDate>2017-05-10T20:14:00</SaleDate>
+  <Finance>
+    <Cost>49200.0000</Cost>
+    <RepairsCost>49200.0000</RepairsCost>
+    <PartsCost>49200.0000</PartsCost>
+    <TransportInCost>49200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>61500.00</SalePrice>
+  <Customer>
+    <CustomerName>Ronaldo Bianco</CustomerName>
+    <CountryName>Ronaldo Bianco</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES149</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>924</Model>
+  </Vehicle>
+  <SaleDate>2017-05-10T16:14:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <Customer>
+    <CustomerName>Alicia Almodovar</CustomerName>
+    <CountryName>Alicia Almodovar</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB150</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Enzo</Model>
+  </Vehicle>
+  <SaleDate>2017-05-10T11:15:00</SaleDate>
+  <Finance>
+    <Cost>204000.0000</Cost>
+    <RepairsCost>204000.0000</RepairsCost>
+    <PartsCost>204000.0000</PartsCost>
+    <TransportInCost>204000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>255000.00</SalePrice>
+  <Customer>
+    <CustomerName>Magic Motors</CustomerName>
+    <CountryName>Magic Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR151</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>F50</Model>
+  </Vehicle>
+  <SaleDate>2017-05-12T13:15:00</SaleDate>
+  <Finance>
+    <Cost>204760.0000</Cost>
+    <RepairsCost>204760.0000</RepairsCost>
+    <PartsCost>204760.0000</PartsCost>
+    <TransportInCost>204760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>255950.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS152</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>F40</Model>
+  </Vehicle>
+  <SaleDate>2017-05-13T20:16:00</SaleDate>
+  <Finance>
+    <Cost>200000.0000</Cost>
+    <RepairsCost>200000.0000</RepairsCost>
+    <PartsCost>200000.0000</PartsCost>
+    <TransportInCost>200000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>250000.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Screamin' Wheels Corp</CustomerName>
+    <CountryName>Screamin' Wheels Corp</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT153</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulietta</Model>
+  </Vehicle>
+  <SaleDate>2017-05-16T16:16:00</SaleDate>
+  <Finance>
+    <Cost>5200.0000</Cost>
+    <RepairsCost>5200.0000</RepairsCost>
+    <PartsCost>5200.0000</PartsCost>
+    <TransportInCost>5200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>6500.00</SalePrice>
+  <Customer>
+    <CustomerName>Prestissimo!</CustomerName>
+    <CountryName>Prestissimo!</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB154</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>GT6</Model>
+  </Vehicle>
+  <SaleDate>2017-05-19T21:17:00</SaleDate>
+  <Finance>
+    <Cost>7400.0000</Cost>
+    <RepairsCost>7400.0000</RepairsCost>
+    <PartsCost>7400.0000</PartsCost>
+    <TransportInCost>7400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9250.00</SalePrice>
+  <Customer>
+    <CustomerName>Stan Collywobble</CustomerName>
+    <CountryName>Stan Collywobble</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB155</InvoiceNumber>
+  <Vehicle>
+    <Make>Reliant</Make>
+    <Model>Robin</Model>
+  </Vehicle>
+  <SaleDate>2017-05-20T14:17:00</SaleDate>
+  <Finance>
+    <Cost>760.0000</Cost>
+    <RepairsCost>760.0000</RepairsCost>
+    <PartsCost>760.0000</PartsCost>
+    <TransportInCost>760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>950.00</SalePrice>
+  <Customer>
+    <CustomerName>London Executive Prestige Vehicles</CustomerName>
+    <CountryName>London Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR156</InvoiceNumber>
+  <Vehicle>
+    <Make>McLaren</Make>
+    <Model>P1</Model>
+  </Vehicle>
+  <SaleDate>2017-05-21T16:18:00</SaleDate>
+  <Finance>
+    <Cost>236000.0000</Cost>
+    <RepairsCost>236000.0000</RepairsCost>
+    <PartsCost>236000.0000</PartsCost>
+    <TransportInCost>236000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>295000.00</SalePrice>
+  <Customer>
+    <CustomerName>M. Pierre Dubois</CustomerName>
+    <CountryName>M. Pierre Dubois</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB157</InvoiceNumber>
+  <Vehicle>
+    <Make>Delorean</Make>
+    <Model>DMC 12</Model>
+  </Vehicle>
+  <SaleDate>2017-05-22T11:18:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <Customer>
+    <CustomerName>Pierre Blanc</CustomerName>
+    <CountryName>Pierre Blanc</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR158</InvoiceNumber>
+  <Vehicle>
+    <Make>BMW</Make>
+    <Model>E30</Model>
+  </Vehicle>
+  <SaleDate>2017-05-23T09:19:00</SaleDate>
+  <Finance>
+    <Cost>26800.0000</Cost>
+    <RepairsCost>26800.0000</RepairsCost>
+    <PartsCost>26800.0000</PartsCost>
+    <TransportInCost>26800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>33500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Capots Reluisants S.A.</CustomerName>
+    <CountryName>Capots Reluisants S.A.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE159</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB2</Model>
+  </Vehicle>
+  <SaleDate>2017-05-24T17:19:00</SaleDate>
+  <Finance>
+    <Cost>36000.0000</Cost>
+    <RepairsCost>36000.0000</RepairsCost>
+    <PartsCost>36000.0000</PartsCost>
+    <TransportInCost>36000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45000.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Glitz</CustomerName>
+    <CountryName>Glitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR160</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB4</Model>
+  </Vehicle>
+  <SaleDate>2017-05-26T10:20:00</SaleDate>
+  <Finance>
+    <Cost>29200.0000</Cost>
+    <RepairsCost>29200.0000</RepairsCost>
+    <PartsCost>29200.0000</PartsCost>
+    <TransportInCost>29200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>36500.00</SalePrice>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR160</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2017-05-26T10:20:00</SaleDate>
+  <Finance>
+    <Cost>62000.0000</Cost>
+    <RepairsCost>62000.0000</RepairsCost>
+    <PartsCost>62000.0000</PartsCost>
+    <TransportInCost>62000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>77500.00</SalePrice>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH161</InvoiceNumber>
+  <Vehicle>
+    <Make>Citroen</Make>
+    <Model>Rosalie</Model>
+  </Vehicle>
+  <SaleDate>2017-05-27T21:20:00</SaleDate>
+  <Finance>
+    <Cost>1880.0000</Cost>
+    <RepairsCost>1880.0000</RepairsCost>
+    <PartsCost>1880.0000</PartsCost>
+    <TransportInCost>1880.0000</TransportInCost>
+  </Finance>
+  <SalePrice>2350.00</SalePrice>
+  <Customer>
+    <CustomerName>Matterhorn Motors</CustomerName>
+    <CountryName>Matterhorn Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB162</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>280SL</Model>
+  </Vehicle>
+  <SaleDate>2017-06-01T20:21:00</SaleDate>
+  <Finance>
+    <Cost>26000.0000</Cost>
+    <RepairsCost>26000.0000</RepairsCost>
+    <PartsCost>26000.0000</PartsCost>
+    <TransportInCost>26000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>32500.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>London Executive Prestige Vehicles</CustomerName>
+    <CountryName>London Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB163</InvoiceNumber>
+  <Vehicle>
+    <Make>Noble</Make>
+    <Model>M600</Model>
+  </Vehicle>
+  <SaleDate>2017-06-01T12:21:00</SaleDate>
+  <Finance>
+    <Cost>36000.0000</Cost>
+    <RepairsCost>36000.0000</RepairsCost>
+    <PartsCost>36000.0000</PartsCost>
+    <TransportInCost>36000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45000.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Posh Vehicles Ltd</CustomerName>
+    <CountryName>Posh Vehicles Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB259</InvoiceNumber>
+  <Vehicle>
+    <Make>Trabant</Make>
+    <Model>600</Model>
+  </Vehicle>
+  <SaleDate>2018-05-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>1000.0000</Cost>
+    <RepairsCost>1000.0000</RepairsCost>
+    <PartsCost>1000.0000</PartsCost>
+    <TransportInCost>1000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>1250.00</SalePrice>
+  <Customer>
+    <CustomerName>Bling Motors</CustomerName>
+    <CountryName>Bling Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH164</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2017-06-15T21:22:00</SaleDate>
+  <Finance>
+    <Cost>6800.0000</Cost>
+    <RepairsCost>6800.0000</RepairsCost>
+    <PartsCost>6800.0000</PartsCost>
+    <TransportInCost>6800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>8500.00</SalePrice>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB260</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR4</Model>
+  </Vehicle>
+  <SaleDate>2018-05-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>5272.0000</Cost>
+    <RepairsCost>5272.0000</RepairsCost>
+    <PartsCost>5272.0000</PartsCost>
+    <TransportInCost>5272.0000</TransportInCost>
+  </Finance>
+  <SalePrice>6590.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>My Shiny Sports Car Ltd.</CustomerName>
+    <CountryName>My Shiny Sports Car Ltd.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE165</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2017-06-15T20:22:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <Customer>
+    <CustomerName>WunderKar</CustomerName>
+    <CountryName>WunderKar</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES168</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>Roadster</Model>
+  </Vehicle>
+  <SaleDate>2017-06-15T18:24:00</SaleDate>
+  <Finance>
+    <Cost>10360.0000</Cost>
+    <RepairsCost>10360.0000</RepairsCost>
+    <PartsCost>10360.0000</PartsCost>
+    <TransportInCost>10360.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12950.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Antonio Maura</CustomerName>
+    <CountryName>Antonio Maura</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB169</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Spider</Model>
+  </Vehicle>
+  <SaleDate>2017-06-22T18:24:00</SaleDate>
+  <Finance>
+    <Cost>4520.0000</Cost>
+    <RepairsCost>4520.0000</RepairsCost>
+    <PartsCost>4520.0000</PartsCost>
+    <TransportInCost>4520.0000</TransportInCost>
+  </Finance>
+  <SalePrice>5650.00</SalePrice>
+  <Customer>
+    <CustomerName>King Leer Cars</CustomerName>
+    <CountryName>King Leer Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR170</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK150</Model>
+  </Vehicle>
+  <SaleDate>2017-06-24T09:25:00</SaleDate>
+  <Finance>
+    <Cost>23600.0000</Cost>
+    <RepairsCost>23600.0000</RepairsCost>
+    <PartsCost>23600.0000</PartsCost>
+    <TransportInCost>23600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>29500.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>SuperSport S.A.R.L.</CustomerName>
+    <CountryName>SuperSport S.A.R.L.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURBE171</InvoiceNumber>
+  <Vehicle>
+    <Make>Peugeot</Make>
+    <Model>205</Model>
+  </Vehicle>
+  <SaleDate>2017-07-01T10:25:00</SaleDate>
+  <Finance>
+    <Cost>3160.0000</Cost>
+    <RepairsCost>3160.0000</RepairsCost>
+    <PartsCost>3160.0000</PartsCost>
+    <TransportInCost>3160.0000</TransportInCost>
+  </Finance>
+  <SalePrice>3950.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Stefan Van Helsing</CustomerName>
+    <CountryName>Stefan Van Helsing</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURBE171</InvoiceNumber>
+  <Vehicle>
+    <Make>Noble</Make>
+    <Model>M600</Model>
+  </Vehicle>
+  <SaleDate>2017-07-01T10:25:00</SaleDate>
+  <Finance>
+    <Cost>23600.0000</Cost>
+    <RepairsCost>23600.0000</RepairsCost>
+    <PartsCost>23600.0000</PartsCost>
+    <TransportInCost>23600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>29500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Stefan Van Helsing</CustomerName>
+    <CountryName>Stefan Van Helsing</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURBE171</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Spider</Model>
+  </Vehicle>
+  <SaleDate>2017-07-01T10:25:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <Customer>
+    <CustomerName>Stefan Van Helsing</CustomerName>
+    <CountryName>Stefan Van Helsing</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR172</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Silver Seraph</Model>
+  </Vehicle>
+  <SaleDate>2017-07-01T18:26:00</SaleDate>
+  <Finance>
+    <Cost>79960.0000</Cost>
+    <RepairsCost>79960.0000</RepairsCost>
+    <PartsCost>79960.0000</PartsCost>
+    <TransportInCost>79960.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99950.00</SalePrice>
+  <Customer>
+    <CustomerName>Mme Anne Duport</CustomerName>
+    <CountryName>Mme Anne Duport</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB173</InvoiceNumber>
+  <Vehicle>
+    <Make>Bugatti</Make>
+    <Model>57C</Model>
+  </Vehicle>
+  <SaleDate>2017-07-03T19:26:00</SaleDate>
+  <Finance>
+    <Cost>268000.0000</Cost>
+    <RepairsCost>268000.0000</RepairsCost>
+    <PartsCost>268000.0000</PartsCost>
+    <TransportInCost>268000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>335000.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Birmingham Executive Prestige Vehicles</CustomerName>
+    <CountryName>Birmingham Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR174</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2017-07-31T20:27:00</SaleDate>
+  <Finance>
+    <Cost>45200.0000</Cost>
+    <RepairsCost>45200.0000</RepairsCost>
+    <PartsCost>45200.0000</PartsCost>
+    <TransportInCost>45200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56500.00</SalePrice>
+  <Customer>
+    <CustomerName>M. Pierre Dubois</CustomerName>
+    <CountryName>M. Pierre Dubois</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB175</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Rapide</Model>
+  </Vehicle>
+  <SaleDate>2017-07-31T19:27:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <Customer>
+    <CustomerName>London Executive Prestige Vehicles</CustomerName>
+    <CountryName>London Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR176</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Silver Shadow</Model>
+  </Vehicle>
+  <SaleDate>2017-07-31T17:28:00</SaleDate>
+  <Finance>
+    <Cost>108000.0000</Cost>
+    <RepairsCost>108000.0000</RepairsCost>
+    <PartsCost>108000.0000</PartsCost>
+    <TransportInCost>108000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>135000.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>SuperSport S.A.R.L.</CustomerName>
+    <CountryName>SuperSport S.A.R.L.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB177</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Corniche</Model>
+  </Vehicle>
+  <SaleDate>2017-07-31T17:28:00</SaleDate>
+  <Finance>
+    <Cost>71600.0000</Cost>
+    <RepairsCost>71600.0000</RepairsCost>
+    <PartsCost>71600.0000</PartsCost>
+    <TransportInCost>71600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>89500.00</SalePrice>
+  <Customer>
+    <CustomerName>King Leer Cars</CustomerName>
+    <CountryName>King Leer Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH178</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Wraith</Model>
+  </Vehicle>
+  <SaleDate>2017-08-04T21:29:00</SaleDate>
+  <Finance>
+    <Cost>132000.0000</Cost>
+    <RepairsCost>132000.0000</RepairsCost>
+    <PartsCost>132000.0000</PartsCost>
+    <TransportInCost>132000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>165000.00</SalePrice>
+  <Customer>
+    <CustomerName>Matterhorn Motors</CustomerName>
+    <CountryName>Matterhorn Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS179</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>250SL</Model>
+  </Vehicle>
+  <SaleDate>2017-08-04T11:29:00</SaleDate>
+  <Finance>
+    <Cost>18080.0000</Cost>
+    <RepairsCost>18080.0000</RepairsCost>
+    <PartsCost>18080.0000</PartsCost>
+    <TransportInCost>18080.0000</TransportInCost>
+  </Finance>
+  <SalePrice>22600.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR180</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>350SL</Model>
+  </Vehicle>
+  <SaleDate>2017-08-06T14:30:00</SaleDate>
+  <Finance>
+    <Cost>26140.0000</Cost>
+    <RepairsCost>26140.0000</RepairsCost>
+    <PartsCost>26140.0000</PartsCost>
+    <TransportInCost>26140.0000</TransportInCost>
+  </Finance>
+  <SalePrice>32675.00</SalePrice>
+  <Customer>
+    <CustomerName>Capots Reluisants S.A.</CustomerName>
+    <CountryName>Capots Reluisants S.A.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR181</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>500SL</Model>
+  </Vehicle>
+  <SaleDate>2017-08-07T13:30:00</SaleDate>
+  <Finance>
+    <Cost>36000.0000</Cost>
+    <RepairsCost>36000.0000</RepairsCost>
+    <PartsCost>36000.0000</PartsCost>
+    <TransportInCost>36000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45000.00</SalePrice>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB182</InvoiceNumber>
+  <Vehicle>
+    <Make>BMW</Make>
+    <Model>Isetta</Model>
+  </Vehicle>
+  <SaleDate>2017-08-27T13:31:00</SaleDate>
+  <Finance>
+    <Cost>4400.0000</Cost>
+    <RepairsCost>4400.0000</RepairsCost>
+    <PartsCost>4400.0000</PartsCost>
+    <TransportInCost>4400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>5500.00</SalePrice>
+  <Customer>
+    <CustomerName>Silver HubCaps</CustomerName>
+    <CountryName>Silver HubCaps</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB183</InvoiceNumber>
+  <Vehicle>
+    <Make>Noble</Make>
+    <Model>M600</Model>
+  </Vehicle>
+  <SaleDate>2017-08-30T19:31:00</SaleDate>
+  <Finance>
+    <Cost>44000.0000</Cost>
+    <RepairsCost>44000.0000</RepairsCost>
+    <PartsCost>44000.0000</PartsCost>
+    <TransportInCost>44000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>55000.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Eat My Exhaust Ltd</CustomerName>
+    <CountryName>Eat My Exhaust Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS184</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB2</Model>
+  </Vehicle>
+  <SaleDate>2017-09-20T14:32:00</SaleDate>
+  <Finance>
+    <Cost>39600.0000</Cost>
+    <RepairsCost>39600.0000</RepairsCost>
+    <PartsCost>39600.0000</PartsCost>
+    <TransportInCost>39600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>49500.00</SalePrice>
+  <Customer>
+    <CustomerName>Sondra Horowitz</CustomerName>
+    <CountryName>Sondra Horowitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES185</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Testarossa</Model>
+  </Vehicle>
+  <SaleDate>2017-09-20T12:32:00</SaleDate>
+  <Finance>
+    <Cost>200000.0000</Cost>
+    <RepairsCost>200000.0000</RepairsCost>
+    <PartsCost>200000.0000</PartsCost>
+    <TransportInCost>200000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>250000.00</SalePrice>
+  <Customer>
+    <CustomerName>Alicia Almodovar</CustomerName>
+    <CountryName>Alicia Almodovar</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR186</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>355</Model>
+  </Vehicle>
+  <SaleDate>2017-09-20T16:33:00</SaleDate>
+  <Finance>
+    <Cost>124000.0000</Cost>
+    <RepairsCost>124000.0000</RepairsCost>
+    <PartsCost>124000.0000</PartsCost>
+    <TransportInCost>124000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>155000.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS187</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2017-09-26T10:33:00</SaleDate>
+  <Finance>
+    <Cost>12600.0000</Cost>
+    <RepairsCost>12600.0000</RepairsCost>
+    <PartsCost>12600.0000</PartsCost>
+    <TransportInCost>12600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>15750.00</SalePrice>
+  <Customer>
+    <CustomerName>Theo Kowalski</CustomerName>
+    <CountryName>Theo Kowalski</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB188</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>928</Model>
+  </Vehicle>
+  <SaleDate>2017-10-15T16:34:00</SaleDate>
+  <Finance>
+    <Cost>15600.0000</Cost>
+    <RepairsCost>15600.0000</RepairsCost>
+    <PartsCost>15600.0000</PartsCost>
+    <TransportInCost>15600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>19500.00</SalePrice>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR189</InvoiceNumber>
+  <Vehicle>
+    <Make>Lamborghini</Make>
+    <Model>Diabolo</Model>
+  </Vehicle>
+  <SaleDate>2017-10-15T18:34:00</SaleDate>
+  <Finance>
+    <Cost>188000.0000</Cost>
+    <RepairsCost>188000.0000</RepairsCost>
+    <PartsCost>188000.0000</PartsCost>
+    <TransportInCost>188000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>235000.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB190</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulia</Model>
+  </Vehicle>
+  <SaleDate>2017-11-01T19:35:00</SaleDate>
+  <Finance>
+    <Cost>20000.0000</Cost>
+    <RepairsCost>20000.0000</RepairsCost>
+    <PartsCost>20000.0000</PartsCost>
+    <TransportInCost>20000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>25000.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Convertible Dreams</CustomerName>
+    <CountryName>Convertible Dreams</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT191</InvoiceNumber>
+  <Vehicle>
+    <Make>Lamborghini</Make>
+    <Model>Jarama</Model>
+  </Vehicle>
+  <SaleDate>2017-11-01T12:35:00</SaleDate>
+  <Finance>
+    <Cost>196000.0000</Cost>
+    <RepairsCost>196000.0000</RepairsCost>
+    <PartsCost>196000.0000</PartsCost>
+    <TransportInCost>196000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>245000.00</SalePrice>
+  <Customer>
+    <CustomerName>Stefano DiLonghi</CustomerName>
+    <CountryName>Stefano DiLonghi</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES192</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR3A</Model>
+  </Vehicle>
+  <SaleDate>2017-11-01T17:36:00</SaleDate>
+  <Finance>
+    <Cost>31600.0000</Cost>
+    <RepairsCost>31600.0000</RepairsCost>
+    <PartsCost>31600.0000</PartsCost>
+    <TransportInCost>31600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>39500.00</SalePrice>
+  <Customer>
+    <CustomerName>Antonio Maura</CustomerName>
+    <CountryName>Antonio Maura</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURBE193</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>Roadster</Model>
+  </Vehicle>
+  <SaleDate>2017-11-06T21:36:00</SaleDate>
+  <Finance>
+    <Cost>18800.0000</Cost>
+    <RepairsCost>18800.0000</RepairsCost>
+    <PartsCost>18800.0000</PartsCost>
+    <TransportInCost>18800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>23500.00</SalePrice>
+  <Customer>
+    <CustomerName>Stefan Van Helsing</CustomerName>
+    <CountryName>Stefan Van Helsing</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURBE193</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulia</Model>
+  </Vehicle>
+  <SaleDate>2017-11-06T21:36:00</SaleDate>
+  <Finance>
+    <Cost>8400.0000</Cost>
+    <RepairsCost>8400.0000</RepairsCost>
+    <PartsCost>8400.0000</PartsCost>
+    <TransportInCost>8400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>10500.00</SalePrice>
+  <Customer>
+    <CustomerName>Stefan Van Helsing</CustomerName>
+    <CountryName>Stefan Van Helsing</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR194</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Spider</Model>
+  </Vehicle>
+  <SaleDate>2017-11-12T11:37:00</SaleDate>
+  <Finance>
+    <Cost>9200.0000</Cost>
+    <RepairsCost>9200.0000</RepairsCost>
+    <PartsCost>9200.0000</PartsCost>
+    <TransportInCost>9200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>11500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Mme Anne Duport</CustomerName>
+    <CountryName>Mme Anne Duport</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR241</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>1750</Model>
+  </Vehicle>
+  <SaleDate>2018-04-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7960.0000</Cost>
+    <RepairsCost>7960.0000</RepairsCost>
+    <PartsCost>7960.0000</PartsCost>
+    <TransportInCost>7960.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9950.00</SalePrice>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR194</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2017-11-12T11:37:00</SaleDate>
+  <Finance>
+    <Cost>40960.0000</Cost>
+    <RepairsCost>40960.0000</RepairsCost>
+    <PartsCost>40960.0000</PartsCost>
+    <TransportInCost>40960.0000</TransportInCost>
+  </Finance>
+  <SalePrice>51200.00</SalePrice>
+  <Customer>
+    <CustomerName>Mme Anne Duport</CustomerName>
+    <CountryName>Mme Anne Duport</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB195</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB2</Model>
+  </Vehicle>
+  <SaleDate>2017-12-01T17:37:00</SaleDate>
+  <Finance>
+    <Cost>36760.0000</Cost>
+    <RepairsCost>36760.0000</RepairsCost>
+    <PartsCost>36760.0000</PartsCost>
+    <TransportInCost>36760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45950.00</SalePrice>
+  <Customer>
+    <CustomerName>Snazzy Roadsters</CustomerName>
+    <CountryName>Snazzy Roadsters</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB196</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>924</Model>
+  </Vehicle>
+  <SaleDate>2017-12-01T21:38:00</SaleDate>
+  <Finance>
+    <Cost>17280.0000</Cost>
+    <RepairsCost>17280.0000</RepairsCost>
+    <PartsCost>17280.0000</PartsCost>
+    <TransportInCost>17280.0000</TransportInCost>
+  </Finance>
+  <SalePrice>21600.00</SalePrice>
+  <Customer>
+    <CustomerName>Glittering Prize Cars Ltd</CustomerName>
+    <CountryName>Glittering Prize Cars Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE198</InvoiceNumber>
+  <Vehicle>
+    <Make>Austin</Make>
+    <Model>Lichfield</Model>
+  </Vehicle>
+  <SaleDate>2017-12-05T11:39:00</SaleDate>
+  <Finance>
+    <Cost>18880.0000</Cost>
+    <RepairsCost>18880.0000</RepairsCost>
+    <PartsCost>18880.0000</PartsCost>
+    <TransportInCost>18880.0000</TransportInCost>
+  </Finance>
+  <SalePrice>23600.00</SalePrice>
+  <Customer>
+    <CustomerName>Glitz</CustomerName>
+    <CountryName>Glitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES199</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Arnage</Model>
+  </Vehicle>
+  <SaleDate>2017-12-10T10:39:00</SaleDate>
+  <Finance>
+    <Cost>79960.0000</Cost>
+    <RepairsCost>79960.0000</RepairsCost>
+    <PartsCost>79960.0000</PartsCost>
+    <TransportInCost>79960.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99950.00</SalePrice>
+  <Customer>
+    <CustomerName>Prestige Imports</CustomerName>
+    <CountryName>Prestige Imports</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT200</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB4</Model>
+  </Vehicle>
+  <SaleDate>2017-12-10T16:40:00</SaleDate>
+  <Finance>
+    <Cost>37520.0000</Cost>
+    <RepairsCost>37520.0000</RepairsCost>
+    <PartsCost>37520.0000</PartsCost>
+    <TransportInCost>37520.0000</TransportInCost>
+  </Finance>
+  <SalePrice>46900.00</SalePrice>
+  <Customer>
+    <CustomerName>Sport.Car</CustomerName>
+    <CountryName>Sport.Car</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB201</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+  </Vehicle>
+  <SaleDate>2017-12-10T17:40:00</SaleDate>
+  <Finance>
+    <Cost>36760.0000</Cost>
+    <RepairsCost>36760.0000</RepairsCost>
+    <PartsCost>36760.0000</PartsCost>
+    <TransportInCost>36760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45950.00</SalePrice>
+  <Customer>
+    <CustomerName>Pierre Blanc</CustomerName>
+    <CountryName>Pierre Blanc</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR202</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>924</Model>
+  </Vehicle>
+  <SaleDate>2017-12-10T12:41:00</SaleDate>
+  <Finance>
+    <Cost>6040.0000</Cost>
+    <RepairsCost>6040.0000</RepairsCost>
+    <PartsCost>6040.0000</PartsCost>
+    <TransportInCost>6040.0000</TransportInCost>
+  </Finance>
+  <SalePrice>7550.00</SalePrice>
+  <Customer>
+    <CustomerName>Capots Reluisants S.A.</CustomerName>
+    <CountryName>Capots Reluisants S.A.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES203</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>924</Model>
+  </Vehicle>
+  <SaleDate>2017-12-12T14:41:00</SaleDate>
+  <Finance>
+    <Cost>9592.0000</Cost>
+    <RepairsCost>9592.0000</RepairsCost>
+    <PartsCost>9592.0000</PartsCost>
+    <TransportInCost>9592.0000</TransportInCost>
+  </Finance>
+  <SalePrice>11990.00</SalePrice>
+  <LineItemDiscount>900.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Antonio Maura</CustomerName>
+    <CountryName>Antonio Maura</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS204</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2017-12-27T17:42:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB205</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2017-12-27T12:42:00</SaleDate>
+  <Finance>
+    <Cost>6000.0000</Cost>
+    <RepairsCost>6000.0000</RepairsCost>
+    <PartsCost>6000.0000</PartsCost>
+    <TransportInCost>6000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>7500.00</SalePrice>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB206</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB4</Model>
+  </Vehicle>
+  <SaleDate>2018-01-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45480.0000</Cost>
+    <RepairsCost>45480.0000</RepairsCost>
+    <PartsCost>45480.0000</PartsCost>
+    <TransportInCost>45480.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56850.00</SalePrice>
+  <Customer>
+    <CustomerName>King Leer Cars</CustomerName>
+    <CountryName>King Leer Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB210</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB4</Model>
+  </Vehicle>
+  <SaleDate>2018-01-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45560.0000</Cost>
+    <RepairsCost>45560.0000</RepairsCost>
+    <PartsCost>45560.0000</PartsCost>
+    <TransportInCost>45560.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56950.00</SalePrice>
+  <Customer>
+    <CustomerName>Clubbing Cars</CustomerName>
+    <CountryName>Clubbing Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB207</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB2</Model>
+  </Vehicle>
+  <SaleDate>2018-01-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>50000.0000</Cost>
+    <RepairsCost>50000.0000</RepairsCost>
+    <PartsCost>50000.0000</PartsCost>
+    <TransportInCost>50000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>62500.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Silver HubCaps</CustomerName>
+    <CountryName>Silver HubCaps</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB208</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB4</Model>
+  </Vehicle>
+  <SaleDate>2018-01-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>34000.0000</Cost>
+    <RepairsCost>34000.0000</RepairsCost>
+    <PartsCost>34000.0000</PartsCost>
+    <TransportInCost>34000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>42500.00</SalePrice>
+  <Customer>
+    <CustomerName>Honest Pete Motors</CustomerName>
+    <CountryName>Honest Pete Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS209</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2018-01-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>52360.0000</Cost>
+    <RepairsCost>52360.0000</RepairsCost>
+    <PartsCost>52360.0000</PartsCost>
+    <TransportInCost>52360.0000</TransportInCost>
+  </Finance>
+  <SalePrice>65450.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR211</InvoiceNumber>
+  <Vehicle>
+    <Make>Peugeot</Make>
+    <Model>203</Model>
+  </Vehicle>
+  <SaleDate>2018-01-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>1560.0000</Cost>
+    <RepairsCost>1560.0000</RepairsCost>
+    <PartsCost>1560.0000</PartsCost>
+    <TransportInCost>1560.0000</TransportInCost>
+  </Finance>
+  <SalePrice>1950.00</SalePrice>
+  <Customer>
+    <CustomerName>Jean-Yves Truffaut</CustomerName>
+    <CountryName>Jean-Yves Truffaut</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB212</InvoiceNumber>
+  <Vehicle>
+    <Make>Austin</Make>
+    <Model>Princess</Model>
+  </Vehicle>
+  <SaleDate>2018-01-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>920.0000</Cost>
+    <RepairsCost>920.0000</RepairsCost>
+    <PartsCost>920.0000</PartsCost>
+    <TransportInCost>920.0000</TransportInCost>
+  </Finance>
+  <SalePrice>1150.00</SalePrice>
+  <Customer>
+    <CustomerName>Mr. Evan Telford</CustomerName>
+    <CountryName>Mr. Evan Telford</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE213</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulietta</Model>
+  </Vehicle>
+  <SaleDate>2018-01-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>9240.0000</Cost>
+    <RepairsCost>9240.0000</RepairsCost>
+    <PartsCost>9240.0000</PartsCost>
+    <TransportInCost>9240.0000</TransportInCost>
+  </Finance>
+  <SalePrice>11550.00</SalePrice>
+  <Customer>
+    <CustomerName>Ralph Obermann</CustomerName>
+    <CountryName>Ralph Obermann</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB214</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2018-01-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10056.0000</Cost>
+    <RepairsCost>10056.0000</RepairsCost>
+    <PartsCost>10056.0000</PartsCost>
+    <TransportInCost>10056.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12570.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Pierre Blanc</CustomerName>
+    <CountryName>Pierre Blanc</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR215</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR7</Model>
+  </Vehicle>
+  <SaleDate>2018-01-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7912.0000</Cost>
+    <RepairsCost>7912.0000</RepairsCost>
+    <PartsCost>7912.0000</PartsCost>
+    <TransportInCost>7912.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9890.00</SalePrice>
+  <Customer>
+    <CustomerName>Capots Reluisants S.A.</CustomerName>
+    <CountryName>Capots Reluisants S.A.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB216</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Flying Spur</Model>
+  </Vehicle>
+  <SaleDate>2018-01-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45560.0000</Cost>
+    <RepairsCost>45560.0000</RepairsCost>
+    <PartsCost>45560.0000</PartsCost>
+    <TransportInCost>45560.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56950.00</SalePrice>
+  <Customer>
+    <CustomerName>Glittering Prize Cars Ltd</CustomerName>
+    <CountryName>Glittering Prize Cars Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES217</InvoiceNumber>
+  <Vehicle>
+    <Make>Noble</Make>
+    <Model>M600</Model>
+  </Vehicle>
+  <SaleDate>2018-01-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>36760.0000</Cost>
+    <RepairsCost>36760.0000</RepairsCost>
+    <PartsCost>36760.0000</PartsCost>
+    <TransportInCost>36760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45950.00</SalePrice>
+  <Customer>
+    <CustomerName>Prestige Imports</CustomerName>
+    <CountryName>Prestige Imports</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURBE218</InvoiceNumber>
+  <Vehicle>
+    <Make>Peugeot</Make>
+    <Model>205</Model>
+  </Vehicle>
+  <SaleDate>2018-01-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>760.0000</Cost>
+    <RepairsCost>760.0000</RepairsCost>
+    <PartsCost>760.0000</PartsCost>
+    <TransportInCost>760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>950.00</SalePrice>
+  <LineItemDiscount>25.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Stefan Van Helsing</CustomerName>
+    <CountryName>Stefan Van Helsing</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR219</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK120</Model>
+  </Vehicle>
+  <SaleDate>2018-01-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>17240.0000</Cost>
+    <RepairsCost>17240.0000</RepairsCost>
+    <PartsCost>17240.0000</PartsCost>
+    <TransportInCost>17240.0000</TransportInCost>
+  </Finance>
+  <SalePrice>21550.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB220</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Spider</Model>
+  </Vehicle>
+  <SaleDate>2018-01-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>4760.0000</Cost>
+    <RepairsCost>4760.0000</RepairsCost>
+    <PartsCost>4760.0000</PartsCost>
+    <TransportInCost>4760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>5950.00</SalePrice>
+  <Customer>
+    <CustomerName>Silver HubCaps</CustomerName>
+    <CountryName>Silver HubCaps</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR221</InvoiceNumber>
+  <Vehicle>
+    <Make>Bugatti</Make>
+    <Model>57C</Model>
+  </Vehicle>
+  <SaleDate>2018-01-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>284000.0000</Cost>
+    <RepairsCost>284000.0000</RepairsCost>
+    <PartsCost>284000.0000</PartsCost>
+    <TransportInCost>284000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>365000.00</SalePrice>
+  <Customer>
+    <CustomerName>La Bagnole de Luxe</CustomerName>
+    <CountryName>La Bagnole de Luxe</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR222</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Silver Seraph</Model>
+  </Vehicle>
+  <SaleDate>2018-02-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>96000.0000</Cost>
+    <RepairsCost>96000.0000</RepairsCost>
+    <PartsCost>96000.0000</PartsCost>
+    <TransportInCost>96000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>120000.00</SalePrice>
+  <Customer>
+    <CustomerName>M. Pierre Dubois</CustomerName>
+    <CountryName>M. Pierre Dubois</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH223</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>928</Model>
+  </Vehicle>
+  <SaleDate>2018-02-11T00:00:00</SaleDate>
+  <Finance>
+    <Cost>14280.0000</Cost>
+    <RepairsCost>14280.0000</RepairsCost>
+    <PartsCost>14280.0000</PartsCost>
+    <TransportInCost>14280.0000</TransportInCost>
+  </Finance>
+  <SalePrice>17850.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH223</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2018-02-11T00:00:00</SaleDate>
+  <Finance>
+    <Cost>82920.0000</Cost>
+    <RepairsCost>82920.0000</RepairsCost>
+    <PartsCost>82920.0000</PartsCost>
+    <TransportInCost>82920.0000</TransportInCost>
+  </Finance>
+  <SalePrice>103650.00</SalePrice>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS224</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Phantom</Model>
+  </Vehicle>
+  <SaleDate>2018-02-12T00:00:00</SaleDate>
+  <Finance>
+    <Cost>146000.0000</Cost>
+    <RepairsCost>146000.0000</RepairsCost>
+    <PartsCost>146000.0000</PartsCost>
+    <TransportInCost>146000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>182500.00</SalePrice>
+  <LineItemDiscount>17500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Sondra Horowitz</CustomerName>
+    <CountryName>Sondra Horowitz</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB225</InvoiceNumber>
+  <Vehicle>
+    <Make>Austin</Make>
+    <Model>Cambridge</Model>
+  </Vehicle>
+  <SaleDate>2018-02-13T00:00:00</SaleDate>
+  <Finance>
+    <Cost>18000.0000</Cost>
+    <RepairsCost>18000.0000</RepairsCost>
+    <PartsCost>18000.0000</PartsCost>
+    <TransportInCost>18000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>22500.00</SalePrice>
+  <Customer>
+    <CustomerName>ImpressTheNeighbours.Com</CustomerName>
+    <CountryName>ImpressTheNeighbours.Com</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR226</InvoiceNumber>
+  <Vehicle>
+    <Make>BMW</Make>
+    <Model>Alpina</Model>
+  </Vehicle>
+  <SaleDate>2018-02-14T00:00:00</SaleDate>
+  <Finance>
+    <Cost>17200.0000</Cost>
+    <RepairsCost>17200.0000</RepairsCost>
+    <PartsCost>17200.0000</PartsCost>
+    <TransportInCost>17200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>21500.00</SalePrice>
+  <Customer>
+    <CustomerName>Wladimir Lacroix</CustomerName>
+    <CountryName>Wladimir Lacroix</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB229</InvoiceNumber>
+  <Vehicle>
+    <Make>Rolls Royce</Make>
+    <Model>Ghost</Model>
+  </Vehicle>
+  <SaleDate>2018-02-17T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79160.0000</Cost>
+    <RepairsCost>79160.0000</RepairsCost>
+    <PartsCost>79160.0000</PartsCost>
+    <TransportInCost>79160.0000</TransportInCost>
+  </Finance>
+  <SalePrice>98950.00</SalePrice>
+  <Customer>
+    <CustomerName>Boris Spry</CustomerName>
+    <CountryName>Boris Spry</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB230</InvoiceNumber>
+  <Vehicle>
+    <Make>Bugatti</Make>
+    <Model>57C</Model>
+  </Vehicle>
+  <SaleDate>2018-02-17T00:00:00</SaleDate>
+  <Finance>
+    <Cost>284000.0000</Cost>
+    <RepairsCost>284000.0000</RepairsCost>
+    <PartsCost>284000.0000</PartsCost>
+    <TransportInCost>284000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>355000.00</SalePrice>
+  <Customer>
+    <CustomerName>Andrea Tarbuck</CustomerName>
+    <CountryName>Andrea Tarbuck</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR231</InvoiceNumber>
+  <Vehicle>
+    <Make>Austin</Make>
+    <Model>Princess</Model>
+  </Vehicle>
+  <SaleDate>2018-03-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>4800.0000</Cost>
+    <RepairsCost>4800.0000</RepairsCost>
+    <PartsCost>4800.0000</PartsCost>
+    <TransportInCost>4800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>6000.00</SalePrice>
+  <Customer>
+    <CustomerName>Vive La Vitesse</CustomerName>
+    <CountryName>Vive La Vitesse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES232</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulietta</Model>
+  </Vehicle>
+  <SaleDate>2018-03-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>4552.0000</Cost>
+    <RepairsCost>4552.0000</RepairsCost>
+    <PartsCost>4552.0000</PartsCost>
+    <TransportInCost>4552.0000</TransportInCost>
+  </Finance>
+  <SalePrice>5690.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Alicia Almodovar</CustomerName>
+    <CountryName>Alicia Almodovar</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS233</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2018-03-08T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45520.0000</Cost>
+    <RepairsCost>45520.0000</RepairsCost>
+    <PartsCost>45520.0000</PartsCost>
+    <TransportInCost>45520.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56900.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Theo Kowalski</CustomerName>
+    <CountryName>Theo Kowalski</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES234</InvoiceNumber>
+  <Vehicle>
+    <Make>Lamborghini</Make>
+    <Model>400GT</Model>
+  </Vehicle>
+  <SaleDate>2018-03-08T00:00:00</SaleDate>
+  <Finance>
+    <Cost>116000.0000</Cost>
+    <RepairsCost>116000.0000</RepairsCost>
+    <PartsCost>116000.0000</PartsCost>
+    <TransportInCost>116000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>145000.00</SalePrice>
+  <Customer>
+    <CustomerName>Antonio Maura</CustomerName>
+    <CountryName>Antonio Maura</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES234</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Daytona</Model>
+  </Vehicle>
+  <SaleDate>2018-03-08T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <Customer>
+    <CustomerName>Antonio Maura</CustomerName>
+    <CountryName>Antonio Maura</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES234</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Dino</Model>
+  </Vehicle>
+  <SaleDate>2018-03-08T00:00:00</SaleDate>
+  <Finance>
+    <Cost>98800.0000</Cost>
+    <RepairsCost>98800.0000</RepairsCost>
+    <PartsCost>98800.0000</PartsCost>
+    <TransportInCost>98800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>123500.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Antonio Maura</CustomerName>
+    <CountryName>Antonio Maura</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR235</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>F50</Model>
+  </Vehicle>
+  <SaleDate>2018-03-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>248000.0000</Cost>
+    <RepairsCost>248000.0000</RepairsCost>
+    <PartsCost>248000.0000</PartsCost>
+    <TransportInCost>248000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>310000.00</SalePrice>
+  <Customer>
+    <CustomerName>Capots Reluisants S.A.</CustomerName>
+    <CountryName>Capots Reluisants S.A.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB236</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>944</Model>
+  </Vehicle>
+  <SaleDate>2018-03-19T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7840.0000</Cost>
+    <RepairsCost>7840.0000</RepairsCost>
+    <PartsCost>7840.0000</PartsCost>
+    <TransportInCost>7840.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9800.00</SalePrice>
+  <LineItemDiscount>35.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Pierre Blanc</CustomerName>
+    <CountryName>Pierre Blanc</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES237</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>928</Model>
+  </Vehicle>
+  <SaleDate>2018-04-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>12760.0000</Cost>
+    <RepairsCost>12760.0000</RepairsCost>
+    <PartsCost>12760.0000</PartsCost>
+    <TransportInCost>12760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>15950.00</SalePrice>
+  <Customer>
+    <CustomerName>Alicia Almodovar</CustomerName>
+    <CountryName>Alicia Almodovar</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB238</InvoiceNumber>
+  <Vehicle>
+    <Make>Lamborghini</Make>
+    <Model>Diabolo</Model>
+  </Vehicle>
+  <SaleDate>2018-04-09T00:00:00</SaleDate>
+  <Finance>
+    <Cost>204000.0000</Cost>
+    <RepairsCost>204000.0000</RepairsCost>
+    <PartsCost>204000.0000</PartsCost>
+    <TransportInCost>204000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>255000.00</SalePrice>
+  <Customer>
+    <CustomerName>Kieran O'Harris</CustomerName>
+    <CountryName>Kieran O'Harris</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB238</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>250SL</Model>
+  </Vehicle>
+  <SaleDate>2018-04-09T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10360.0000</Cost>
+    <RepairsCost>10360.0000</RepairsCost>
+    <PartsCost>10360.0000</PartsCost>
+    <TransportInCost>10360.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12950.00</SalePrice>
+  <Customer>
+    <CustomerName>Kieran O'Harris</CustomerName>
+    <CountryName>Kieran O'Harris</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB239</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Mondial</Model>
+  </Vehicle>
+  <SaleDate>2018-04-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>124000.0000</Cost>
+    <RepairsCost>124000.0000</RepairsCost>
+    <PartsCost>124000.0000</PartsCost>
+    <TransportInCost>124000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>155000.00</SalePrice>
+  <Customer>
+    <CustomerName>King Leer Cars</CustomerName>
+    <CountryName>King Leer Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS240</InvoiceNumber>
+  <Vehicle>
+    <Make>Austin</Make>
+    <Model>Princess</Model>
+  </Vehicle>
+  <SaleDate>2018-04-11T00:00:00</SaleDate>
+  <Finance>
+    <Cost>2000.0000</Cost>
+    <RepairsCost>2000.0000</RepairsCost>
+    <PartsCost>2000.0000</PartsCost>
+    <TransportInCost>2000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>2500.00</SalePrice>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS242</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>280SL</Model>
+  </Vehicle>
+  <SaleDate>2018-04-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>31600.0000</Cost>
+    <RepairsCost>31600.0000</RepairsCost>
+    <PartsCost>31600.0000</PartsCost>
+    <TransportInCost>31600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>39500.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB243</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>350SL</Model>
+  </Vehicle>
+  <SaleDate>2018-04-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>18800.0000</Cost>
+    <RepairsCost>18800.0000</RepairsCost>
+    <PartsCost>18800.0000</PartsCost>
+    <TransportInCost>18800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>23500.00</SalePrice>
+  <Customer>
+    <CustomerName>Executive Motor Delight</CustomerName>
+    <CountryName>Executive Motor Delight</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES244</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2018-04-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>36760.0000</Cost>
+    <RepairsCost>36760.0000</RepairsCost>
+    <PartsCost>36760.0000</PartsCost>
+    <TransportInCost>36760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45950.00</SalePrice>
+  <Customer>
+    <CustomerName>Alicia Almodovar</CustomerName>
+    <CountryName>Alicia Almodovar</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS245</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2018-04-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>44000.0000</Cost>
+    <RepairsCost>44000.0000</RepairsCost>
+    <PartsCost>44000.0000</PartsCost>
+    <TransportInCost>44000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>55000.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB246</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2018-04-20T00:00:00</SaleDate>
+  <Finance>
+    <Cost>80000.0000</Cost>
+    <RepairsCost>80000.0000</RepairsCost>
+    <PartsCost>80000.0000</PartsCost>
+    <TransportInCost>80000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>100000.00</SalePrice>
+  <Customer>
+    <CustomerName>ImpressTheNeighbours.Com</CustomerName>
+    <CountryName>ImpressTheNeighbours.Com</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB247</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2018-04-20T00:00:00</SaleDate>
+  <Finance>
+    <Cost>35908.0000</Cost>
+    <RepairsCost>35908.0000</RepairsCost>
+    <PartsCost>35908.0000</PartsCost>
+    <TransportInCost>35908.0000</TransportInCost>
+  </Finance>
+  <SalePrice>44885.00</SalePrice>
+  <Customer>
+    <CustomerName>Beltway Prestige Driving</CustomerName>
+    <CountryName>Beltway Prestige Driving</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB248</InvoiceNumber>
+  <Vehicle>
+    <Make>Lagonda</Make>
+    <Model>V12</Model>
+  </Vehicle>
+  <SaleDate>2018-04-22T00:00:00</SaleDate>
+  <Finance>
+    <Cost>49200.0000</Cost>
+    <RepairsCost>49200.0000</RepairsCost>
+    <PartsCost>49200.0000</PartsCost>
+    <TransportInCost>49200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>61500.00</SalePrice>
+  <Customer>
+    <CustomerName>Bling Motors</CustomerName>
+    <CountryName>Bling Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB249</InvoiceNumber>
+  <Vehicle>
+    <Make>Peugeot</Make>
+    <Model>404</Model>
+  </Vehicle>
+  <SaleDate>2018-04-23T00:00:00</SaleDate>
+  <Finance>
+    <Cost>760.0000</Cost>
+    <RepairsCost>760.0000</RepairsCost>
+    <PartsCost>760.0000</PartsCost>
+    <TransportInCost>760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>950.00</SalePrice>
+  <Customer>
+    <CustomerName>Clubbing Cars</CustomerName>
+    <CountryName>Clubbing Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT250</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Dino</Model>
+  </Vehicle>
+  <SaleDate>2018-04-24T00:00:00</SaleDate>
+  <Finance>
+    <Cost>156000.0000</Cost>
+    <RepairsCost>156000.0000</RepairsCost>
+    <PartsCost>156000.0000</PartsCost>
+    <TransportInCost>156000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>195000.00</SalePrice>
+  <Customer>
+    <CustomerName>Smooth Rocking Chrome</CustomerName>
+    <CountryName>Smooth Rocking Chrome</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES251</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB2</Model>
+  </Vehicle>
+  <SaleDate>2018-04-29T00:00:00</SaleDate>
+  <Finance>
+    <Cost>42000.0000</Cost>
+    <RepairsCost>42000.0000</RepairsCost>
+    <PartsCost>42000.0000</PartsCost>
+    <TransportInCost>42000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>52500.00</SalePrice>
+  <LineItemDiscount>1575.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>YO! Speed!</CustomerName>
+    <CountryName>YO! Speed!</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB252</InvoiceNumber>
+  <Vehicle>
+    <Make>Citroen</Make>
+    <Model>Rosalie</Model>
+  </Vehicle>
+  <SaleDate>2018-05-03T00:00:00</SaleDate>
+  <Finance>
+    <Cost>1080.0000</Cost>
+    <RepairsCost>1080.0000</RepairsCost>
+    <PartsCost>1080.0000</PartsCost>
+    <TransportInCost>1080.0000</TransportInCost>
+  </Finance>
+  <SalePrice>1350.00</SalePrice>
+  <Customer>
+    <CustomerName>Birmingham Executive Prestige Vehicles</CustomerName>
+    <CountryName>Birmingham Executive Prestige Vehicles</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB253</InvoiceNumber>
+  <Vehicle>
+    <Make>Peugeot</Make>
+    <Model>404</Model>
+  </Vehicle>
+  <SaleDate>2018-05-03T00:00:00</SaleDate>
+  <Finance>
+    <Cost>1996.0000</Cost>
+    <RepairsCost>1996.0000</RepairsCost>
+    <PartsCost>1996.0000</PartsCost>
+    <TransportInCost>1996.0000</TransportInCost>
+  </Finance>
+  <SalePrice>2495.00</SalePrice>
+  <LineItemDiscount>45.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Silver HubCaps</CustomerName>
+    <CountryName>Silver HubCaps</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR254</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>F40</Model>
+  </Vehicle>
+  <SaleDate>2018-05-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>215600.0000</Cost>
+    <RepairsCost>215600.0000</RepairsCost>
+    <PartsCost>215600.0000</PartsCost>
+    <TransportInCost>215600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>269500.00</SalePrice>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS255</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>F50</Model>
+  </Vehicle>
+  <SaleDate>2018-05-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>156000.0000</Cost>
+    <RepairsCost>156000.0000</RepairsCost>
+    <PartsCost>156000.0000</PartsCost>
+    <TransportInCost>156000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>195000.00</SalePrice>
+  <Customer>
+    <CustomerName>Stephany Rousso</CustomerName>
+    <CountryName>Stephany Rousso</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB256</InvoiceNumber>
+  <Vehicle>
+    <Make>Noble</Make>
+    <Model>M600</Model>
+  </Vehicle>
+  <SaleDate>2018-05-23T00:00:00</SaleDate>
+  <Finance>
+    <Cost>20760.0000</Cost>
+    <RepairsCost>20760.0000</RepairsCost>
+    <PartsCost>20760.0000</PartsCost>
+    <TransportInCost>20760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>25950.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>My Shiny Sports Car Ltd.</CustomerName>
+    <CountryName>My Shiny Sports Car Ltd.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB257</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR4</Model>
+  </Vehicle>
+  <SaleDate>2018-05-23T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7992.0000</Cost>
+    <RepairsCost>7992.0000</RepairsCost>
+    <PartsCost>7992.0000</PartsCost>
+    <TransportInCost>7992.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9990.00</SalePrice>
+  <Customer>
+    <CustomerName>Beltway Prestige Driving</CustomerName>
+    <CountryName>Beltway Prestige Driving</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT258</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>360</Model>
+  </Vehicle>
+  <SaleDate>2018-05-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>108000.0000</Cost>
+    <RepairsCost>108000.0000</RepairsCost>
+    <PartsCost>108000.0000</PartsCost>
+    <TransportInCost>108000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>135000.00</SalePrice>
+  <Customer>
+    <CustomerName>Smooth Rocking Chrome</CustomerName>
+    <CountryName>Smooth Rocking Chrome</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR261</InvoiceNumber>
+  <Vehicle>
+    <Make>Porsche</Make>
+    <Model>959</Model>
+  </Vehicle>
+  <SaleDate>2018-05-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>71600.0000</Cost>
+    <RepairsCost>71600.0000</RepairsCost>
+    <PartsCost>71600.0000</PartsCost>
+    <TransportInCost>71600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>89500.00</SalePrice>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB262</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulietta</Model>
+  </Vehicle>
+  <SaleDate>2018-05-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>14800.0000</Cost>
+    <RepairsCost>14800.0000</RepairsCost>
+    <PartsCost>14800.0000</PartsCost>
+    <TransportInCost>14800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>18500.00</SalePrice>
+  <Customer>
+    <CustomerName>Kieran O'Harris</CustomerName>
+    <CountryName>Kieran O'Harris</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH263</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>1750</Model>
+  </Vehicle>
+  <SaleDate>2018-06-03T00:00:00</SaleDate>
+  <Finance>
+    <Cost>2860.0000</Cost>
+    <RepairsCost>2860.0000</RepairsCost>
+    <PartsCost>2860.0000</PartsCost>
+    <TransportInCost>2860.0000</TransportInCost>
+  </Finance>
+  <SalePrice>3575.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Matterhorn Motors</CustomerName>
+    <CountryName>Matterhorn Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURBE264</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR4</Model>
+  </Vehicle>
+  <SaleDate>2018-06-03T00:00:00</SaleDate>
+  <Finance>
+    <Cost>5560.0000</Cost>
+    <RepairsCost>5560.0000</RepairsCost>
+    <PartsCost>5560.0000</PartsCost>
+    <TransportInCost>5560.0000</TransportInCost>
+  </Finance>
+  <SalePrice>6950.00</SalePrice>
+  <Customer>
+    <CustomerName>Flash Voitures</CustomerName>
+    <CountryName>Flash Voitures</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB265</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK150</Model>
+  </Vehicle>
+  <SaleDate>2018-06-16T00:00:00</SaleDate>
+  <Finance>
+    <Cost>21200.0000</Cost>
+    <RepairsCost>21200.0000</RepairsCost>
+    <PartsCost>21200.0000</PartsCost>
+    <TransportInCost>21200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>26500.00</SalePrice>
+  <Customer>
+    <CustomerName>Snazzy Roadsters</CustomerName>
+    <CountryName>Snazzy Roadsters</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS266</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>Mark V</Model>
+  </Vehicle>
+  <SaleDate>2018-06-18T00:00:00</SaleDate>
+  <Finance>
+    <Cost>26800.0000</Cost>
+    <RepairsCost>26800.0000</RepairsCost>
+    <PartsCost>26800.0000</PartsCost>
+    <TransportInCost>26800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>33500.00</SalePrice>
+  <Customer>
+    <CustomerName>Paul Blasio</CustomerName>
+    <CountryName>Paul Blasio</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB267</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>Mark X</Model>
+  </Vehicle>
+  <SaleDate>2018-06-22T00:00:00</SaleDate>
+  <Finance>
+    <Cost>19600.0000</Cost>
+    <RepairsCost>19600.0000</RepairsCost>
+    <PartsCost>19600.0000</PartsCost>
+    <TransportInCost>19600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>24500.00</SalePrice>
+  <Customer>
+    <CustomerName>Glittering Prize Cars Ltd</CustomerName>
+    <CountryName>Glittering Prize Cars Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB268</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Continental</Model>
+  </Vehicle>
+  <SaleDate>2018-06-23T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <LineItemDiscount>500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>King Leer Cars</CustomerName>
+    <CountryName>King Leer Cars</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB269</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB2</Model>
+  </Vehicle>
+  <SaleDate>2018-07-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79992.0000</Cost>
+    <RepairsCost>79992.0000</RepairsCost>
+    <PartsCost>79992.0000</PartsCost>
+    <TransportInCost>79992.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99990.00</SalePrice>
+  <Customer>
+    <CustomerName>Executive Motor Delight</CustomerName>
+    <CountryName>Executive Motor Delight</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB270</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulia</Model>
+  </Vehicle>
+  <SaleDate>2018-07-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>5560.0000</Cost>
+    <RepairsCost>5560.0000</RepairsCost>
+    <PartsCost>5560.0000</PartsCost>
+    <TransportInCost>5560.0000</TransportInCost>
+  </Finance>
+  <SalePrice>6950.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Mary Blackhouse</CustomerName>
+    <CountryName>Mary Blackhouse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB271</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulietta</Model>
+  </Vehicle>
+  <SaleDate>2018-07-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>8400.0000</Cost>
+    <RepairsCost>8400.0000</RepairsCost>
+    <PartsCost>8400.0000</PartsCost>
+    <TransportInCost>8400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>10500.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Maurice Dujardin</CustomerName>
+    <CountryName>Maurice Dujardin</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB272</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>280SL</Model>
+  </Vehicle>
+  <SaleDate>2018-07-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>26760.0000</Cost>
+    <RepairsCost>26760.0000</RepairsCost>
+    <PartsCost>26760.0000</PartsCost>
+    <TransportInCost>26760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>33450.00</SalePrice>
+  <Customer>
+    <CustomerName>Bling Motors</CustomerName>
+    <CountryName>Bling Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB273</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2018-07-25T00:00:00</SaleDate>
+  <Finance>
+    <Cost>58000.0000</Cost>
+    <RepairsCost>58000.0000</RepairsCost>
+    <PartsCost>58000.0000</PartsCost>
+    <TransportInCost>58000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>72500.00</SalePrice>
+  <Customer>
+    <CustomerName>Mr. Evan Telford</CustomerName>
+    <CountryName>Mr. Evan Telford</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB274</InvoiceNumber>
+  <Vehicle>
+    <Make>Peugeot</Make>
+    <Model>404</Model>
+  </Vehicle>
+  <SaleDate>2018-07-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>1920.0000</Cost>
+    <RepairsCost>1920.0000</RepairsCost>
+    <PartsCost>1920.0000</PartsCost>
+    <TransportInCost>1920.0000</TransportInCost>
+  </Finance>
+  <SalePrice>2400.00</SalePrice>
+  <Customer>
+    <CustomerName>Leslie Whittington</CustomerName>
+    <CountryName>Leslie Whittington</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB275</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK120</Model>
+  </Vehicle>
+  <SaleDate>2018-07-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>54800.0000</Cost>
+    <RepairsCost>54800.0000</RepairsCost>
+    <PartsCost>54800.0000</PartsCost>
+    <TransportInCost>54800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>68500.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Mike Beeton</CustomerName>
+    <CountryName>Mike Beeton</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH276</InvoiceNumber>
+  <Vehicle>
+    <Make>Peugeot</Make>
+    <Model>404</Model>
+  </Vehicle>
+  <SaleDate>2018-07-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>1880.0000</Cost>
+    <RepairsCost>1880.0000</RepairsCost>
+    <PartsCost>1880.0000</PartsCost>
+    <TransportInCost>1880.0000</TransportInCost>
+  </Finance>
+  <SalePrice>2350.00</SalePrice>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB277</InvoiceNumber>
+  <Vehicle>
+    <Make>Morgan</Make>
+    <Model>Plus 4</Model>
+  </Vehicle>
+  <SaleDate>2018-07-30T00:00:00</SaleDate>
+  <Finance>
+    <Cost>14800.0000</Cost>
+    <RepairsCost>14800.0000</RepairsCost>
+    <PartsCost>14800.0000</PartsCost>
+    <TransportInCost>14800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>18500.00</SalePrice>
+  <LineItemDiscount>1950.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>ImpressTheNeighbours.Com</CustomerName>
+    <CountryName>ImpressTheNeighbours.Com</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB278</InvoiceNumber>
+  <Vehicle>
+    <Make>Noble</Make>
+    <Model>M14</Model>
+  </Vehicle>
+  <SaleDate>2018-07-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>4400.0000</Cost>
+    <RepairsCost>4400.0000</RepairsCost>
+    <PartsCost>4400.0000</PartsCost>
+    <TransportInCost>4400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>5500.00</SalePrice>
+  <Customer>
+    <CustomerName>Melissa Bertrand</CustomerName>
+    <CountryName>Melissa Bertrand</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES279</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>360</Model>
+  </Vehicle>
+  <SaleDate>2018-07-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>102800.0000</Cost>
+    <RepairsCost>102800.0000</RepairsCost>
+    <PartsCost>102800.0000</PartsCost>
+    <TransportInCost>102800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>128500.00</SalePrice>
+  <LineItemDiscount>12500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>El Sport</CustomerName>
+    <CountryName>El Sport</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS280</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2018-07-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>44000.0000</Cost>
+    <RepairsCost>44000.0000</RepairsCost>
+    <PartsCost>44000.0000</PartsCost>
+    <TransportInCost>44000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>55000.00</SalePrice>
+  <Customer>
+    <CustomerName>Stephany Rousso</CustomerName>
+    <CountryName>Stephany Rousso</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT281</InvoiceNumber>
+  <Vehicle>
+    <Make>Peugeot</Make>
+    <Model>404</Model>
+  </Vehicle>
+  <SaleDate>2018-07-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>1000.0000</Cost>
+    <RepairsCost>1000.0000</RepairsCost>
+    <PartsCost>1000.0000</PartsCost>
+    <TransportInCost>1000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>1250.00</SalePrice>
+  <Customer>
+    <CustomerName>Smooth Rocking Chrome</CustomerName>
+    <CountryName>Smooth Rocking Chrome</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR282</InvoiceNumber>
+  <Vehicle>
+    <Make>Bugatti</Make>
+    <Model>57C</Model>
+  </Vehicle>
+  <SaleDate>2018-07-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>276000.0000</Cost>
+    <RepairsCost>276000.0000</RepairsCost>
+    <PartsCost>276000.0000</PartsCost>
+    <TransportInCost>276000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>345000.00</SalePrice>
+  <Customer>
+    <CustomerName>Bling Bling S.A.</CustomerName>
+    <CountryName>Bling Bling S.A.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT283</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2018-07-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>66072.0000</Cost>
+    <RepairsCost>66072.0000</RepairsCost>
+    <PartsCost>66072.0000</PartsCost>
+    <TransportInCost>66072.0000</TransportInCost>
+  </Finance>
+  <SalePrice>82590.00</SalePrice>
+  <Customer>
+    <CustomerName>Bravissima!</CustomerName>
+    <CountryName>Bravissima!</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS284</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2018-08-01T00:00:00</SaleDate>
+  <Finance>
+    <Cost>90872.0000</Cost>
+    <RepairsCost>90872.0000</RepairsCost>
+    <PartsCost>90872.0000</PartsCost>
+    <TransportInCost>90872.0000</TransportInCost>
+  </Finance>
+  <SalePrice>113590.00</SalePrice>
+  <Customer>
+    <CustomerName>Jayden Jones</CustomerName>
+    <CountryName>Jayden Jones</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS285</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2018-08-01T00:00:00</SaleDate>
+  <Finance>
+    <Cost>36000.0000</Cost>
+    <RepairsCost>36000.0000</RepairsCost>
+    <PartsCost>36000.0000</PartsCost>
+    <TransportInCost>36000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45000.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Stephany Rousso</CustomerName>
+    <CountryName>Stephany Rousso</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES286</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vanquish</Model>
+  </Vehicle>
+  <SaleDate>2018-08-01T00:00:00</SaleDate>
+  <Finance>
+    <Cost>46080.0000</Cost>
+    <RepairsCost>46080.0000</RepairsCost>
+    <PartsCost>46080.0000</PartsCost>
+    <TransportInCost>46080.0000</TransportInCost>
+  </Finance>
+  <SalePrice>57600.00</SalePrice>
+  <Customer>
+    <CustomerName>YO! Speed!</CustomerName>
+    <CountryName>YO! Speed!</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB287</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vantage</Model>
+  </Vehicle>
+  <SaleDate>2018-08-01T00:00:00</SaleDate>
+  <Finance>
+    <Cost>82000.0000</Cost>
+    <RepairsCost>82000.0000</RepairsCost>
+    <PartsCost>82000.0000</PartsCost>
+    <TransportInCost>82000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>102500.00</SalePrice>
+  <Customer>
+    <CustomerName>Pierre Blanc</CustomerName>
+    <CountryName>Pierre Blanc</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB288</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB2</Model>
+  </Vehicle>
+  <SaleDate>2018-08-10T00:00:00</SaleDate>
+  <Finance>
+    <Cost>31600.0000</Cost>
+    <RepairsCost>31600.0000</RepairsCost>
+    <PartsCost>31600.0000</PartsCost>
+    <TransportInCost>31600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>39500.00</SalePrice>
+  <Customer>
+    <CustomerName>Mr. Evan Telford</CustomerName>
+    <CountryName>Mr. Evan Telford</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB289</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2018-08-11T00:00:00</SaleDate>
+  <Finance>
+    <Cost>49240.0000</Cost>
+    <RepairsCost>49240.0000</RepairsCost>
+    <PartsCost>49240.0000</PartsCost>
+    <TransportInCost>49240.0000</TransportInCost>
+  </Finance>
+  <SalePrice>61550.00</SalePrice>
+  <Customer>
+    <CustomerName>Expensive Shine</CustomerName>
+    <CountryName>Expensive Shine</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB290</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2018-08-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>44000.0000</Cost>
+    <RepairsCost>44000.0000</RepairsCost>
+    <PartsCost>44000.0000</PartsCost>
+    <TransportInCost>44000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>55000.00</SalePrice>
+  <Customer>
+    <CustomerName>Steve Docherty</CustomerName>
+    <CountryName>Steve Docherty</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURDE291</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Mulsanne</Model>
+  </Vehicle>
+  <SaleDate>2018-08-16T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Rodolph Legler</CustomerName>
+    <CountryName>Rodolph Legler</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH292</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Arnage</Model>
+  </Vehicle>
+  <SaleDate>2018-08-18T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45440.0000</Cost>
+    <RepairsCost>45440.0000</RepairsCost>
+    <PartsCost>45440.0000</PartsCost>
+    <TransportInCost>45440.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56800.00</SalePrice>
+  <LineItemDiscount>750.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Le Luxe en Motion</CustomerName>
+    <CountryName>Le Luxe en Motion</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS293</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Continental</Model>
+  </Vehicle>
+  <SaleDate>2018-09-01T00:00:00</SaleDate>
+  <Finance>
+    <Cost>71600.0000</Cost>
+    <RepairsCost>71600.0000</RepairsCost>
+    <PartsCost>71600.0000</PartsCost>
+    <TransportInCost>71600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>89500.00</SalePrice>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR294</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Flying Spur</Model>
+  </Vehicle>
+  <SaleDate>2018-09-01T00:00:00</SaleDate>
+  <Finance>
+    <Cost>58000.0000</Cost>
+    <RepairsCost>58000.0000</RepairsCost>
+    <PartsCost>58000.0000</PartsCost>
+    <TransportInCost>58000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>72500.00</SalePrice>
+  <Customer>
+    <CustomerName>SuperSport S.A.R.L.</CustomerName>
+    <CountryName>SuperSport S.A.R.L.</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB295</InvoiceNumber>
+  <Vehicle>
+    <Make>Bentley</Make>
+    <Model>Mulsanne</Model>
+  </Vehicle>
+  <SaleDate>2018-09-01T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45560.0000</Cost>
+    <RepairsCost>45560.0000</RepairsCost>
+    <PartsCost>45560.0000</PartsCost>
+    <TransportInCost>45560.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56950.00</SalePrice>
+  <Customer>
+    <CustomerName>Convertible Dreams</CustomerName>
+    <CountryName>Convertible Dreams</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB296</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>280SL</Model>
+  </Vehicle>
+  <SaleDate>2018-09-04T00:00:00</SaleDate>
+  <Finance>
+    <Cost>50000.0000</Cost>
+    <RepairsCost>50000.0000</RepairsCost>
+    <PartsCost>50000.0000</PartsCost>
+    <TransportInCost>50000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>62500.00</SalePrice>
+  <Customer>
+    <CustomerName>ImpressTheNeighbours.Com</CustomerName>
+    <CountryName>ImpressTheNeighbours.Com</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES297</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>280SL</Model>
+  </Vehicle>
+  <SaleDate>2018-09-04T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45512.0000</Cost>
+    <RepairsCost>45512.0000</RepairsCost>
+    <PartsCost>45512.0000</PartsCost>
+    <TransportInCost>45512.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56890.00</SalePrice>
+  <Customer>
+    <CustomerName>Antonio Maura</CustomerName>
+    <CountryName>Antonio Maura</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR298</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>350SL</Model>
+  </Vehicle>
+  <SaleDate>2018-09-08T00:00:00</SaleDate>
+  <Finance>
+    <Cost>26880.0000</Cost>
+    <RepairsCost>26880.0000</RepairsCost>
+    <PartsCost>26880.0000</PartsCost>
+    <TransportInCost>26880.0000</TransportInCost>
+  </Finance>
+  <SalePrice>33600.00</SalePrice>
+  <Customer>
+    <CustomerName>Wladimir Lacroix</CustomerName>
+    <CountryName>Wladimir Lacroix</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB299</InvoiceNumber>
+  <Vehicle>
+    <Make>Mercedes</Make>
+    <Model>500SL</Model>
+  </Vehicle>
+  <SaleDate>2018-09-08T00:00:00</SaleDate>
+  <Finance>
+    <Cost>24400.0000</Cost>
+    <RepairsCost>24400.0000</RepairsCost>
+    <PartsCost>24400.0000</PartsCost>
+    <TransportInCost>24400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>30500.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Pete Spring</CustomerName>
+    <CountryName>Pete Spring</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR300</InvoiceNumber>
+  <Vehicle>
+    <Make>Citroen</Make>
+    <Model>Traaction Avant</Model>
+  </Vehicle>
+  <SaleDate>2018-09-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>20000.0000</Cost>
+    <RepairsCost>20000.0000</RepairsCost>
+    <PartsCost>20000.0000</PartsCost>
+    <TransportInCost>20000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>25000.00</SalePrice>
+  <Customer>
+    <CustomerName>Khader El Ghannam</CustomerName>
+    <CountryName>Khader El Ghannam</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR300</InvoiceNumber>
+  <Vehicle>
+    <Make>Delahaye</Make>
+    <Model>135</Model>
+  </Vehicle>
+  <SaleDate>2018-09-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>20400.0000</Cost>
+    <RepairsCost>20400.0000</RepairsCost>
+    <PartsCost>20400.0000</PartsCost>
+    <TransportInCost>20400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>25500.00</SalePrice>
+  <Customer>
+    <CustomerName>Khader El Ghannam</CustomerName>
+    <CountryName>Khader El Ghannam</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB301</InvoiceNumber>
+  <Vehicle>
+    <Make>Delahaye</Make>
+    <Model>145</Model>
+  </Vehicle>
+  <SaleDate>2018-09-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>31600.0000</Cost>
+    <RepairsCost>31600.0000</RepairsCost>
+    <PartsCost>31600.0000</PartsCost>
+    <TransportInCost>31600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>39500.00</SalePrice>
+  <Customer>
+    <CustomerName>Expensive Shine</CustomerName>
+    <CountryName>Expensive Shine</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT302</InvoiceNumber>
+  <Vehicle>
+    <Make>Delahaye</Make>
+    <Model>175</Model>
+  </Vehicle>
+  <SaleDate>2018-09-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>10000.0000</Cost>
+    <RepairsCost>10000.0000</RepairsCost>
+    <PartsCost>10000.0000</PartsCost>
+    <TransportInCost>10000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>12500.00</SalePrice>
+  <Customer>
+    <CustomerName>Bravissima!</CustomerName>
+    <CountryName>Bravissima!</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB303</InvoiceNumber>
+  <Vehicle>
+    <Make>Trabant</Make>
+    <Model>500</Model>
+  </Vehicle>
+  <SaleDate>2018-10-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>920.0000</Cost>
+    <RepairsCost>920.0000</RepairsCost>
+    <PartsCost>920.0000</PartsCost>
+    <TransportInCost>920.0000</TransportInCost>
+  </Finance>
+  <SalePrice>1150.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Mary Blackhouse</CustomerName>
+    <CountryName>Mary Blackhouse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB303</InvoiceNumber>
+  <Vehicle>
+    <Make>Trabant</Make>
+    <Model>600</Model>
+  </Vehicle>
+  <SaleDate>2018-10-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>1560.0000</Cost>
+    <RepairsCost>1560.0000</RepairsCost>
+    <PartsCost>1560.0000</PartsCost>
+    <TransportInCost>1560.0000</TransportInCost>
+  </Finance>
+  <SalePrice>1950.00</SalePrice>
+  <Customer>
+    <CustomerName>Mary Blackhouse</CustomerName>
+    <CountryName>Mary Blackhouse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB303</InvoiceNumber>
+  <Vehicle>
+    <Make>Trabant</Make>
+    <Model>500</Model>
+  </Vehicle>
+  <SaleDate>2018-10-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>2000.0000</Cost>
+    <RepairsCost>2000.0000</RepairsCost>
+    <PartsCost>2000.0000</PartsCost>
+    <TransportInCost>2000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>2500.00</SalePrice>
+  <Customer>
+    <CustomerName>Mary Blackhouse</CustomerName>
+    <CountryName>Mary Blackhouse</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR304</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB5</Model>
+  </Vehicle>
+  <SaleDate>2018-10-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>55600.0000</Cost>
+    <RepairsCost>55600.0000</RepairsCost>
+    <PartsCost>55600.0000</PartsCost>
+    <TransportInCost>55600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>69500.00</SalePrice>
+  <Customer>
+    <CustomerName>Jacques Mitterand</CustomerName>
+    <CountryName>Jacques Mitterand</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH305</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2018-10-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>36000.0000</Cost>
+    <RepairsCost>36000.0000</RepairsCost>
+    <PartsCost>36000.0000</PartsCost>
+    <TransportInCost>36000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>45000.00</SalePrice>
+  <Customer>
+    <CustomerName>Francoise LeBrun</CustomerName>
+    <CountryName>Francoise LeBrun</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS306</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Vanquish</Model>
+  </Vehicle>
+  <SaleDate>2018-10-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>45592.0000</Cost>
+    <RepairsCost>45592.0000</RepairsCost>
+    <PartsCost>45592.0000</PartsCost>
+    <TransportInCost>45592.0000</TransportInCost>
+  </Finance>
+  <SalePrice>56990.00</SalePrice>
+  <Customer>
+    <CustomerName>Stephany Rousso</CustomerName>
+    <CountryName>Stephany Rousso</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS307</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>Mark X</Model>
+  </Vehicle>
+  <SaleDate>2018-10-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>69200.0000</Cost>
+    <RepairsCost>69200.0000</RepairsCost>
+    <PartsCost>69200.0000</PartsCost>
+    <TransportInCost>69200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>86500.00</SalePrice>
+  <LineItemDiscount>2450.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Jayden Jones</CustomerName>
+    <CountryName>Jayden Jones</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB308</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XJ12</Model>
+  </Vehicle>
+  <SaleDate>2018-10-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>14280.0000</Cost>
+    <RepairsCost>14280.0000</RepairsCost>
+    <PartsCost>14280.0000</PartsCost>
+    <TransportInCost>14280.0000</TransportInCost>
+  </Finance>
+  <SalePrice>17850.00</SalePrice>
+  <LineItemDiscount>1250.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Alex McWhirter</CustomerName>
+    <CountryName>Alex McWhirter</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR309</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>Mark V</Model>
+  </Vehicle>
+  <SaleDate>2018-10-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>20760.0000</Cost>
+    <RepairsCost>20760.0000</RepairsCost>
+    <PartsCost>20760.0000</PartsCost>
+    <TransportInCost>20760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>25950.00</SalePrice>
+  <Customer>
+    <CustomerName>Francois Chirac</CustomerName>
+    <CountryName>Francois Chirac</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB310</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK150</Model>
+  </Vehicle>
+  <SaleDate>2018-10-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>23600.0000</Cost>
+    <RepairsCost>23600.0000</RepairsCost>
+    <PartsCost>23600.0000</PartsCost>
+    <TransportInCost>23600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>29500.00</SalePrice>
+  <Customer>
+    <CustomerName>Andy Cheshire</CustomerName>
+    <CountryName>Andy Cheshire</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR311</InvoiceNumber>
+  <Vehicle>
+    <Make>Jaguar</Make>
+    <Model>XK120</Model>
+  </Vehicle>
+  <SaleDate>2018-10-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>47200.0000</Cost>
+    <RepairsCost>47200.0000</RepairsCost>
+    <PartsCost>47200.0000</PartsCost>
+    <TransportInCost>47200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>59000.00</SalePrice>
+  <LineItemDiscount>4500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Casseroles Chromes</CustomerName>
+    <CountryName>Casseroles Chromes</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS312</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2018-10-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7600.0000</Cost>
+    <RepairsCost>7600.0000</RepairsCost>
+    <PartsCost>7600.0000</PartsCost>
+    <TransportInCost>7600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>9500.00</SalePrice>
+  <Customer>
+    <CustomerName>Stephany Rousso</CustomerName>
+    <CountryName>Stephany Rousso</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR313</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2018-11-02T00:00:00</SaleDate>
+  <Finance>
+    <Cost>7120.0000</Cost>
+    <RepairsCost>7120.0000</RepairsCost>
+    <PartsCost>7120.0000</PartsCost>
+    <TransportInCost>7120.0000</TransportInCost>
+  </Finance>
+  <SalePrice>8900.00</SalePrice>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPCH314</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR4</Model>
+  </Vehicle>
+  <SaleDate>2018-11-15T00:00:00</SaleDate>
+  <Finance>
+    <Cost>9272.0000</Cost>
+    <RepairsCost>9272.0000</RepairsCost>
+    <PartsCost>9272.0000</PartsCost>
+    <TransportInCost>9272.0000</TransportInCost>
+  </Finance>
+  <SalePrice>11590.00</SalePrice>
+  <Customer>
+    <CustomerName>Matterhorn Motors</CustomerName>
+    <CountryName>Matterhorn Motors</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB315</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR4</Model>
+  </Vehicle>
+  <SaleDate>2018-11-22T00:00:00</SaleDate>
+  <Finance>
+    <Cost>6800.0000</Cost>
+    <RepairsCost>6800.0000</RepairsCost>
+    <PartsCost>6800.0000</PartsCost>
+    <TransportInCost>6800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>8500.00</SalePrice>
+  <Customer>
+    <CustomerName>Posh Vehicles Ltd</CustomerName>
+    <CountryName>Posh Vehicles Ltd</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS316</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2018-12-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>47600.0000</Cost>
+    <RepairsCost>47600.0000</RepairsCost>
+    <PartsCost>47600.0000</PartsCost>
+    <TransportInCost>47600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>59500.00</SalePrice>
+  <Customer>
+    <CustomerName>Jason B. Wight</CustomerName>
+    <CountryName>Jason B. Wight</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURIT317</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>Virage</Model>
+  </Vehicle>
+  <SaleDate>2018-12-05T00:00:00</SaleDate>
+  <Finance>
+    <Cost>98800.0000</Cost>
+    <RepairsCost>98800.0000</RepairsCost>
+    <PartsCost>98800.0000</PartsCost>
+    <TransportInCost>98800.0000</TransportInCost>
+  </Finance>
+  <SalePrice>123500.00</SalePrice>
+  <LineItemDiscount>3500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Ronaldo Bianco</CustomerName>
+    <CountryName>Ronaldo Bianco</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB318</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB9</Model>
+  </Vehicle>
+  <SaleDate>2018-12-08T00:00:00</SaleDate>
+  <Finance>
+    <Cost>79600.0000</Cost>
+    <RepairsCost>79600.0000</RepairsCost>
+    <PartsCost>79600.0000</PartsCost>
+    <TransportInCost>79600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>99500.00</SalePrice>
+  <Customer>
+    <CustomerName>Andrea Tarbuck</CustomerName>
+    <CountryName>Andrea Tarbuck</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB319</InvoiceNumber>
+  <Vehicle>
+    <Make>Aston Martin</Make>
+    <Model>DB6</Model>
+  </Vehicle>
+  <SaleDate>2018-12-08T00:00:00</SaleDate>
+  <Finance>
+    <Cost>43600.0000</Cost>
+    <RepairsCost>43600.0000</RepairsCost>
+    <PartsCost>43600.0000</PartsCost>
+    <TransportInCost>43600.0000</TransportInCost>
+  </Finance>
+  <SalePrice>54500.00</SalePrice>
+  <Customer>
+    <CustomerName>Boris Spry</CustomerName>
+    <CountryName>Boris Spry</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB319</InvoiceNumber>
+  <Vehicle>
+    <Make>Trabant</Make>
+    <Model>600</Model>
+  </Vehicle>
+  <SaleDate>2018-12-08T00:00:00</SaleDate>
+  <Finance>
+    <Cost>1272.0000</Cost>
+    <RepairsCost>1272.0000</RepairsCost>
+    <PartsCost>1272.0000</PartsCost>
+    <TransportInCost>1272.0000</TransportInCost>
+  </Finance>
+  <SalePrice>1590.00</SalePrice>
+  <Customer>
+    <CustomerName>Boris Spry</CustomerName>
+    <CountryName>Boris Spry</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURES320</InvoiceNumber>
+  <Vehicle>
+    <Make>Triumph</Make>
+    <Model>TR5</Model>
+  </Vehicle>
+  <SaleDate>2018-12-16T00:00:00</SaleDate>
+  <Finance>
+    <Cost>9200.0000</Cost>
+    <RepairsCost>9200.0000</RepairsCost>
+    <PartsCost>9200.0000</PartsCost>
+    <TransportInCost>9200.0000</TransportInCost>
+  </Finance>
+  <SalePrice>11500.00</SalePrice>
+  <Customer>
+    <CustomerName>Antonio Maura</CustomerName>
+    <CountryName>Antonio Maura</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>USDUS321</InvoiceNumber>
+  <Vehicle>
+    <Make>Alfa Romeo</Make>
+    <Model>Giulietta</Model>
+  </Vehicle>
+  <SaleDate>2018-12-17T00:00:00</SaleDate>
+  <Finance>
+    <Cost>14360.0000</Cost>
+    <RepairsCost>14360.0000</RepairsCost>
+    <PartsCost>14360.0000</PartsCost>
+    <TransportInCost>14360.0000</TransportInCost>
+  </Finance>
+  <SalePrice>17950.00</SalePrice>
+  <LineItemDiscount>1500.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Screamin' Wheels</CustomerName>
+    <CountryName>Screamin' Wheels</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>EURFR322</InvoiceNumber>
+  <Vehicle>
+    <Make>Citroen</Make>
+    <Model>Rosalie</Model>
+  </Vehicle>
+  <SaleDate>2018-12-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>4400.0000</Cost>
+    <RepairsCost>4400.0000</RepairsCost>
+    <PartsCost>4400.0000</PartsCost>
+    <TransportInCost>4400.0000</TransportInCost>
+  </Finance>
+  <SalePrice>5500.00</SalePrice>
+  <Customer>
+    <CustomerName>Laurent Saint Yves</CustomerName>
+    <CountryName>Laurent Saint Yves</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB323</InvoiceNumber>
+  <Vehicle>
+    <Make>Reliant</Make>
+    <Model>Robin</Model>
+  </Vehicle>
+  <SaleDate>2018-12-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>760.0000</Cost>
+    <RepairsCost>760.0000</RepairsCost>
+    <PartsCost>760.0000</PartsCost>
+    <TransportInCost>760.0000</TransportInCost>
+  </Finance>
+  <SalePrice>950.00</SalePrice>
+  <Customer>
+    <CustomerName>Mrs. Ivana Telford</CustomerName>
+    <CountryName>Mrs. Ivana Telford</CountryName>
+  </Customer>
+</Sales>
+<Sales>
+  <InvoiceNumber>GBPGB324</InvoiceNumber>
+  <Vehicle>
+    <Make>Ferrari</Make>
+    <Model>Daytona</Model>
+  </Vehicle>
+  <SaleDate>2018-12-31T00:00:00</SaleDate>
+  <Finance>
+    <Cost>116000.0000</Cost>
+    <RepairsCost>116000.0000</RepairsCost>
+    <PartsCost>116000.0000</PartsCost>
+    <TransportInCost>116000.0000</TransportInCost>
+  </Finance>
+  <SalePrice>145000.00</SalePrice>
+  <LineItemDiscount>5000.00</LineItemDiscount>
+  <Customer>
+    <CustomerName>Andy Cheshire</CustomerName>
+    <CountryName>Andy Cheshire</CountryName>
+  </Customer>
+</Sales>
+</ComplexXML>
